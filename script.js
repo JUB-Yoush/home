@@ -13,6 +13,6 @@ function updateTime(){
     hour = dt.hour
     minute = dt.minute
     second = dt.second
-    time.textContent = dt
+    time.textContent = dt + " current time in Toronto, Canada "
 
 }
