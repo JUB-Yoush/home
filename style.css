@@ -11,13 +11,17 @@ body{
 }
 
 .linktree{
-    width: 300px;
+    width: 500px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
 }
 img{
-    width: 50%;
-    height: 50%;
+    width: 30%;
+    height: 30%;
+}
+
+h3{
+    margin: 0px;
 }
