@@ -3,7 +3,7 @@
   src="https://media.tenor.com/sK6ZPrUy2hMAAAAC/izu-shaboten-animal-park-capybara.gif"
   alt=""
 />
-<p>web developer // game developer // lassonde CS 2025</p>
+<div>web developer // game developer // lassonde CS 2025</div>
 <h3>--links--</h3>
 <div class="linktree">
   <a href="http://github.com/JUB-Yoush" target="_blank">github </a> //
