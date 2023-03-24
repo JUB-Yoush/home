@@ -1,4 +1,5 @@
 <header>
+  <!--
   <a href="/">Home</a>
   <nav>
     <ul>
@@ -13,15 +14,10 @@
       </li>
     </ul>
   </nav>
+  -->
 </header>
 
 <style>
-  header {
-    padding: 1rem;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
   ul {
     margin: 0;
     list-style-type: none;
