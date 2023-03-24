@@ -1,4 +1,3 @@
-<p id="currentTime" />
 <h2>--jayden p brooks--</h2>
 <img
   src="https://media.tenor.com/sK6ZPrUy2hMAAAAC/izu-shaboten-animal-park-capybara.gif"
