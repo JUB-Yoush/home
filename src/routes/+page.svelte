@@ -14,7 +14,7 @@
       >resume
     </a>
     //
-    <a href="/contact">contact </a>//
-    <a href="/blog"/>Blog (Sooner!!!)</a>
+    <a href="/contact.html">contact </a>//
+    <a href="/blog">blog(soon)</a>
   </div>
 </body>
