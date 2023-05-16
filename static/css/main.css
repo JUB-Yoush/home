@@ -1,0 +1,39 @@
+h1{
+    font-size: 2rem;
+}
+h2{
+    font-size: 1.5rem;
+}
+h3{
+    font-size: 1.2rem;
+}
+
+body{
+    font-family: monospace;
+}
+
+.content{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    text-align: right;
+    margin-right: 16px;
+}
+
+.home-gif{
+    width: 30%;
+    height: 30%;
+}
+
+.home-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.home-header{
+}
