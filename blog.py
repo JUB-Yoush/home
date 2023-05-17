@@ -18,12 +18,14 @@ app.config.from_object(__name__)
 def index():
     return render_template('index.html')
 
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
 @app.route("/posts/")
 def posts():
     posts = [p for p in flatpages if p.path.startswith(POST_DIR)] 
     posts.sort(key=lambda item:item['date'], reverse=False) # sort by date
-    print(posts)
-    print(type(posts[0]))
     return render_template('posts.html',posts=posts)
 
 @app.route('/posts/<name>/')

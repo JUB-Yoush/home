@@ -1,97 +1,84 @@
 
-const flavours = [
+const flavors = [
 
     {"name":"plain",
-    "bg_colour":"#e5d6cc",
-    "text_colour":"#171717",
+    "bg_color":"#e5d6cc",
+    "text_color":"#171717",
     "link_color":"#878f8f"},
 
     {"name":"mint",
-    "bg_colour":"#e6f7ff",
-    "text_colour":"#3b3350",
-    "link_color":"#f7e8a9"},
+    "bg_color":"#e6f7ff",
+    "text_color":"#3b3350",
+    "link_color":"#66b7b0"},
     
 
     {"name":"strawberry",
-    "bg_colour":"#ffcde6",
-    "text_colour":"#422549",
-    "link_color":"#f7e8c8"},
+    "bg_color":"#ffcde6",
+    "text_color":"#422549",
+    "link_color":"#f179a0"},
 
     {"name":"banana",
-    "bg_colour":"#fffeb8",
-    "text_colour":"#493351",
-    "link_color":"#f7f8d0"},
+    "bg_color":"#fffeb8",
+    "text_color":"#493351",
+    "link_color":"#e9c46a"},
 
 
     {"name":"peanut",
-    "bg_colour":"#fddebc",
-    "text_colour":"#411e2c",
-    "link_color":"#f7e8a9"},
+    "bg_color":"#fddebc",
+    "text_color":"#411e2c",
+    "link_color":"#a97766"},
 
 
     {"name":"grape",
-    "bg_colour":"#e7d4f6",
-    "text_colour":"#2c0d2c",
+    "bg_color":"#e7d4f6",
+    "text_color":"#2c0d2c",
     "link_color":"#878f8f"},
 
     {"name":"melon",
-    "bg_colour":"#dff5de",
-    "text_colour":"#0d142c",
+    "bg_color":"#dff5de",
+    "text_color":"#0d142c",
     "link_color":"#878f8f"},
 ]
 
-if (!localStorage.getItem("flavour")){
+if (!localStorage.getItem("flavor_index")){
     populate_storage()
-    render_flavor(0)
+    render_flavor(flavors[0])
 }else{
-    render_flavor(localStorage.getItem("flavour"))
+    render_flavor(flavors[localStorage.getItem("flavor_index")])
 }
 
 function populate_storage(){
-    localStorage.setItem("flavour",0)
+    localStorage.setItem("flavor_index",0)
 }
 
-
-
 function change_flavor(){
-    var current_flavor = localStorage.getItem("flavour")
-    current_flavor++
-    if (current_flavor == flavours.length)
-    {current_flavor = 0}
+    let flavor_index = localStorage.getItem("flavor_index")
+    flavor_index++
+    if (flavor_index == flavors.length)
+    {flavor_index = 0}
+    let current_flavor = flavors[flavor_index]
+    console.log(flavors[flavor_index])
+    localStorage.setItem("flavor_index",flavor_index)
     render_flavor(current_flavor)
 }
 
 function render_flavor(current_flavor){
-    console.log('changing to',flavours[current_flavor])
+    console.log('changing to',current_flavor)
+    console.log(current_flavor)
     const body = document.body
-    const siteFlavour = document.querySelector('.site-flavor > a')
+    const siteflavor = document.querySelector('.site-flavor > a')
 
-    const anchors = document.querySelector('a')
-    const anchorHovers = document.querySelector('a:hover')
-    anchors.style.color = flavours[current_flavor].text_colour
-
-    var links = document.getElementsByTagName("a");
+    let links = document.getElementsByTagName("a");
     for(var i=0;i<links.length;i++)
-    {
-           
-            links[i].style.color = flavours[current_flavor].text_colour;  
-            links[i].addEventListener('mouseover',function(){
-                this.style.color = flavours[current_flavor].link_color
-            });
-            links[i].addEventListener('mouseout',function(){
-                this.style.color = flavours[current_flavor].text_colour
-            });
+    {   links[i].style.color = current_flavor.text_color;  
+        links[i].addEventListener('mouseover',function(){
+            this.style.color = current_flavor.link_color
+        });
+        links[i].addEventListener('mouseout',function(){
+            this.style.color = current_flavor.text_color
+        });}   
+    siteflavor.textContent = current_flavor.name
 
-            
-    }  
-
-    var sheet = window.document.styleSheets[0];
-    sheet.insertRule('a:hover { color: ${flavours[current_flavor].link_color}; }', sheet.cssRules.length);
-        
-    siteFlavour.textContent = flavours[current_flavor].name
-
-    body.style.backgroundColor = flavours[current_flavor].bg_colour
-    body.style.color = flavours[current_flavor].text_colour
-
-    localStorage.setItem("flavour",current_flavor)
+    body.style.backgroundColor = current_flavor.bg_color
+    body.style.color = current_flavor.text_color
 }

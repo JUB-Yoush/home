@@ -1,0 +1,17 @@
+
+.about-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.bio{
+    max-width: 600px;
+    min-width: 150px;
+}
+
+.about-gif{
+    max-width: 300px;
+    height: auto;
+    min-width: 150px;
+    padding-top: 16px;
+}

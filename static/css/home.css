@@ -1,7 +1,8 @@
 
 .home-gif{
-    width: 50%;
-    height: 50%;
+    max-width: 300px;
+    height: auto;
+    min-width: 150px;
     padding-top: 16px;
 }
 
@@ -15,5 +16,6 @@
 }
 
 .bio{
-    width: 600px;
+    max-width: 600px;
+    min-width: 150px;
 }

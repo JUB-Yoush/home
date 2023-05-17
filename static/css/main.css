@@ -22,7 +22,9 @@ a:hover {
 body{
     margin-top: 15vh;
     font-family: monospace;
-    color: blue;
+    display: flex;
+    flex-direction: column;
+
 }
 
 .content{
@@ -41,4 +43,14 @@ body{
     padding: .7em;
     font-size: 1.3em;
     text-decoration: none;
+}
+
+.border{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.border > div{
+    font-size: 1.3em;
+    font-weight: bold;
 }
