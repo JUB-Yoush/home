@@ -1,0 +1,19 @@
+
+.home-gif{
+    width: 50%;
+    height: 50%;
+    padding-top: 16px;
+}
+
+.gif-changer{
+    padding-bottom: 16px;
+}
+
+.home-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.bio{
+    width: 600px;
+}
