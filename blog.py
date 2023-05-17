@@ -16,7 +16,7 @@ app.config.from_object(__name__)
 
 @app.route('/')
 def index():
-    return render_template('index.html',post=post)
+    return render_template('index.html')
 
 @app.route("/posts/")
 def posts():

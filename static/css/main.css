@@ -12,11 +12,9 @@ p{
     font-size: 1.3em;
 }
 a {
-    color: #0060B6;
 }
 
 a:hover {
-    color:#00A0C6; 
     text-decoration:none; 
     cursor:pointer;  
 }

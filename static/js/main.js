@@ -65,7 +65,31 @@ function render_flavor(current_flavor){
     console.log('changing to',flavours[current_flavor])
     const body = document.body
     const siteFlavour = document.querySelector('.site-flavor > a')
+
+    const anchors = document.querySelector('a')
+    const anchorHovers = document.querySelector('a:hover')
+    anchors.style.color = flavours[current_flavor].text_colour
+
+    var links = document.getElementsByTagName("a");
+    for(var i=0;i<links.length;i++)
+    {
+           
+            links[i].style.color = flavours[current_flavor].text_colour;  
+            links[i].addEventListener('mouseover',function(){
+                this.style.color = flavours[current_flavor].link_color
+            });
+            links[i].addEventListener('mouseout',function(){
+                this.style.color = flavours[current_flavor].text_colour
+            });
+
+            
+    }  
+
+    var sheet = window.document.styleSheets[0];
+    sheet.insertRule('a:hover { color: ${flavours[current_flavor].link_color}; }', sheet.cssRules.length);
+        
     siteFlavour.textContent = flavours[current_flavor].name
+
     body.style.backgroundColor = flavours[current_flavor].bg_colour
     body.style.color = flavours[current_flavor].text_colour
 
