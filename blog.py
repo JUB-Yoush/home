@@ -1,5 +1,5 @@
 import sys
-from flask import Flask, render_template
+from flask import Flask, render_template, send_from_directory
 from flask_flatpages import FlatPages, pygments_style_defs
 from flask_frozen import Freezer
 
@@ -22,6 +22,18 @@ def index():
 def about():
     return render_template('about.html')
 
+@app.route('/hire')
+def resume():
+    return render_template('resume.html')
+
+@app.route('/projects')
+def projects():
+    return render_template('projects.html')
+
+@app.route('/hire/resume.pdf')
+def send_resume():
+    return render_template('resume.html')
+    
 @app.route("/posts/")
 def posts():
     posts = [p for p in flatpages if p.path.startswith(POST_DIR)] 

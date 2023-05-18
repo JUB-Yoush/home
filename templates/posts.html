@@ -1,24 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
 
-    <p>posts!!!</p>
+{% extends 'base.html' %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+<link rel="stylesheet" href="{{url_for('static',filename='css/blog.css')}}">
+<div class="blog-content">
+    <h3>shin youbies room:</h3>
     {% for post in posts %}
     <a href="{{ url_for('post', name=post.path.replace('posts/', '')) }}">
-        {{ post.title }}
+        <h3>{{ post.title }}</h3>
     </a>
     <small>{{ post.date }}</small>
     {% endfor %}
+</div>
 
-
-</body>
-</html>
+{% endblock %}
 
 
 

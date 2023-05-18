@@ -27,6 +27,14 @@ body{
 
 }
 
+strong{
+    font-weight: bold;
+}
+
+code{
+    font-family: monospace;
+}
+
 .content{
     margin: auto;
     display: flex;
@@ -43,6 +51,10 @@ body{
     padding: .7em;
     font-size: 1.3em;
     text-decoration: none;
+}
+
+.site-flavor {
+    margin-top: 16px;
 }
 
 .border{
