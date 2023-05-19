@@ -9,7 +9,7 @@ FLATPAGES_AUTO_RELOAD = DEBUG
 FLATPAGES_EXTENSION = '.md'
 FLATPAGES_ROOT = 'content'
 POST_DIR = 'posts'
-REPO_NAME = 'home'
+REPO_NAME = '..'
 
 def parent_dir(path):
     '''Return the parent of a directory.'''
@@ -21,7 +21,8 @@ PROJECT_ROOT = APP_DIR
 # the project root
 FREEZER_DESTINATION = PROJECT_ROOT
 
-FREEZER_BASE_URL = "http://localhost/{0}".format(REPO_NAME)
+#FREEZER_BASE_URL = "http://localhost/{0}".format(REPO_NAME)
+FREEZER_BASE_URL = "http://localhost/../"
 # Since this is a repo page (not a Github user page),
 # we need to set the BASE_URL to the correct url as per GH Pages' standards
 #FREEZER_BASE_URL = "http://localhost/{0}".format(REPO_NAME)
