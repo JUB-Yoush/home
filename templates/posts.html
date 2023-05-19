@@ -1,0 +1,22 @@
+
+{% extends 'base.html' %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+<link rel="stylesheet" href="{{url_for('static',filename='css/blog.css')}}">
+<div class="blog-content">
+    <h3>shin youbies room:</h3>
+    {% for post in posts %}
+    <a href="{{ url_for('post', name=post.path.replace('posts/', '')) }}">
+        <h3>{{ post.title }}</h3>
+    </a>
+    <small>{{ post.date }}</small>
+    {% endfor %}
+</div>
+
+{% endblock %}
+
+
+
