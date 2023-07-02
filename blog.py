@@ -9,6 +9,7 @@ FLATPAGES_AUTO_RELOAD = DEBUG
 FLATPAGES_EXTENSION = '.md'
 FLATPAGES_ROOT = 'content'
 POST_DIR = 'posts'
+
 REPO_NAME = '..'
 
 def parent_dir(path):
@@ -19,10 +20,11 @@ APP_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = APP_DIR
 # In order to deploy to Github pages, you must build the static files to
 # the project root
-FREEZER_DESTINATION = PROJECT_ROOT
+FREEZER_DESTINATION = PROJECT_ROOT + "/build"
 
 #FREEZER_BASE_URL = "http://localhost/{0}".format(REPO_NAME)
 FREEZER_BASE_URL = "http://localhost/../"
+FREEZER_RELATIVE_URLS = True
 # Since this is a repo page (not a Github user page),
 # we need to set the BASE_URL to the correct url as per GH Pages' standards
 #FREEZER_BASE_URL = "http://localhost/{0}".format(REPO_NAME)
