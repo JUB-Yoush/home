@@ -83,3 +83,7 @@ code{
     font-weight: bold;
 }
 
+.links{
+    display: flex;
+    justify-content: center;
+}
