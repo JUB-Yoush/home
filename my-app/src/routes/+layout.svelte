@@ -45,30 +45,29 @@
 ]
 
 </script>
-<body class="ma4 flex flex-column justify-center items-center">
-    <div class="border">
-    </div>
+<body class=" ma2 pt7-ns  flex flex-column justify-center items-center">
+   
     
-    <div class="mr-auto ml-auto flex">
-        <div class="navbar">
-            <div class="home-nav link"><a href="index">home</a></div>
-            <div class="about-nav"><a href="about">about</a></div>
-            <div class="resume-nav"><a href="resume">hire me 😳</a></div>
-            <div class="projects-nav"><a href="projects">projects</a></div>
-            <div class="blog-nav"><a href="posts">blog</a></div> 
-            <div class="site-flavor"><a href="javascript:;" onclick="change_flavor()">plain</a></div>
+    <div class="mr-auto ml-auto flex flex-column flex-row-ns ">
+        <div class="mt5 tr flex flex-row flex-wrap flex-column-ns">
+            <div class="mt2 mr3"><a class="link" href="index">home</a></div>
+            <div class="mt2 mr3"><a class="link" href="about">about</a></div>
+            <div class="mt2 mr3"><a class="link" href="resume">hire me 😳</a></div>
+            <div class="mt2 mr3"><a class="link" href="projects">projects</a></div>
+            <div class="mt2 mr3"><a class="link" href="posts">blog</a></div> 
+            <div class="site-flavor mt2 mr3"><a class="link" href="javascript:;" onclick="change_flavor()">plain</a></div>
         </div>
-        <div>
+        <div class="mw7">
             <slot/>
         </div>
     </div>
     <div class="border">
         <div>----------------------------</div>
     </div>
-<div class="links">
-    <a href="mailto:jayden.patrick.brooks@gmail.com"target="_blank">email</a>
-    <a href="https://www.linkedin.com/in/jaydenpb/"target="_blank">linkedin</a>
-    <a href="https://github.com/JUB-Yoush"target="_blank">github</a>
-    <a href="https://yoush.itch.io/"target="_blank">itch.io</a>
-</div>
+    <div class="links">
+        <a class="link" href="mailto:jayden.patrick.brooks@gmail.com"target="_blank">email</a>
+        <a class="link" href="https://www.linkedin.com/in/jaydenpb/"target="_blank">linkedin</a>
+        <a class="link" href="https://github.com/JUB-Yoush"target="_blank">github</a>
+        <a class="link" href="https://yoush.itch.io/"target="_blank">itch.io</a>
+    </div>
 </body>
