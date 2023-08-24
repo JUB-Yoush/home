@@ -1,8 +1,8 @@
-<script ssr={false}>
+<script>
 	import '../css/tachyons.css';
 	import '../css/global.css';
     import {onMount } from 'svelte'
-    import {session} from '$app/stores'
+    import {writable} from 'svelte/store';
 	//FLAVOUR LOGIC
 
 	const flavors = [
@@ -20,58 +20,53 @@
 
 		{ name: 'melon', bg_color: '#dff5de', text_color: '#0d142c', link_color: '#878f8f' }
 	];
-   
-    $session.subscribe(($session) => {
-        if (typeof $session.flavor !== 'undefined') {
-            sessionStorage.setItem('flavor_index',$session.flavor)
-        }
-    });
 
-    onMount(()=>{
-        if (typeof window !== 'undefined'){
+    const current_flavor = writable({});
+
+    onMount(()=> {
+        if (typeof window !== "undefined"){
             if (!sessionStorage.getItem('flavor_index')){
                 populate_storage();
-                $session.flavor = flavors[0]
-            }
-            else{
-                $session.flavor = flavors[sessionStorage.getItem('flavor_index')];
+                change_flavor(0);
+            }else{
+                change_flavor(parseInt(sessionStorage.getItem("flavor_index")));
             }
         }
-            function populate_storage(){
-                sessionStorage.setItem("flavor_index",0)
-        }
+    })
+    function populate_storage(){
+        sessionStorage.setItem("flavor_index",0)
     }
-    );
 
-function change_flavor(){
-    let flavor_index = sessionStorage.getItem("flavor_index")
-    flavor_index++
-    if (flavor_index == flavors.length)
-    {flavor_index = 0}
-    let current_flavor = flavors[flavor_index]
-    sessionStorage.setItem("flavor_index",flavor_index)
-    render_flavor(current_flavor)
-}
+    function change_flavor(flavor_index){
+        flavor_index++
+        if (flavor_index == flavors.length)
+        {flavor_index = 0}
+        const selected_flavor = flavors[flavor_index]
+        let current_flavor = flavors[flavor_index]
+        sessionStorage.setItem("flavor_index",flavor_index)
+        render_flavor(current_flavor)
+        current_flavor.setItem(selected_flavor)
+    }
 
-function render_flavor(current_flavor){
-    const body = document.body
-    const siteflavor = document.querySelector('.site-flavor > a')
+    function render_flavor(current_flavor){
+        const body = document.body
+        const siteflavor = document.querySelector('.site-flavor > a')
 
-    let links = document.getElementsByTagName("a");
-    for(var i=0;i<links.length;i++)
-    {   links[i].style.color = current_flavor.text_color;  
-        links[i].addEventListener('mouseover',function(){
-            this.style.color = current_flavor.link_color
-        });
-        links[i].addEventListener('mouseout',function(){
-            this.style.color = current_flavor.text_color
-        });}   
-    siteflavor.textContent = current_flavor.name
+        let links = document.getElementsByTagName("a");
+        for(var i=0;i<links.length;i++)
+        {   links[i].style.color = current_flavor.text_color;  
+            links[i].addEventListener('mouseover',function(){
+                this.style.color = current_flavor.link_color
+            });
+            links[i].addEventListener('mouseout',function(){
+                this.style.color = current_flavor.text_color
+            });}   
+        siteflavor.textContent = current_flavor.name
 
-    body.style.backgroundColor = current_flavor.bg_color
-    body.style.color = current_flavor.text_color
-}
-    //setup storage for first time
+        body.style.backgroundColor = current_flavor.bg_color
+        body.style.color = current_flavor.text_color
+    }
+        //setup storage for first time
 </script>
 
 <link href="https://fonts.googleapis.com/css?family=Spline Sans Mono" rel="stylesheet" />
@@ -87,7 +82,7 @@ function render_flavor(current_flavor){
 			<div class="mt2 mr3"><a class="link" href="projects">projects</a></div>
 			<div class="mt2 mr3"><a class="link" href="posts">blog</a></div>
 			<div class="site-flavor mt2 mr3">
-				<a class="link" href="javascript:;" onclick="change_flavor()">{current_flavor.name}</a>
+				<a class="link" href="javascript:;" on:click={change_flavor(2)}>{current_flavor.name}</a>
 			</div>
 		</div>
 		<div class="mw6"style="max-width:40rem">
