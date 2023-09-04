@@ -1,24 +1,51 @@
 <script>
 	import '../css/tachyons.css';
 	import '../css/global.css';
-    import {flavorStore} from '../js/flavor'
+    import {curr_flavor_index} from '../js/flavor'
     import {flavorRef} from '../js/flavor'
     import {onMount } from 'svelte'
     import {writable} from 'svelte/store';
 	//FLAVOUR LOGIC
+	let local_flavor_index
+	curr_flavor_index.subscribe((index)=>local_flavor_index = index)
+	
+	function change_flavour(){
+		if (local_flavor_index > flavorRef.length){
+            local_flavor_index = 0
+		}else{
+			local_flavor_index+=1
+		}
+		curr_flavor_index.set(local_flavor_index)
+		console.log(curr_flavor_index,local_flavor_index)
+	}
 
+	let savestore = false
+  $: if (savestore && $curr_flavor_index) {
+    window.sessionStorage.setItem("store", JSON.stringify($curr_flavor_index))
+  }
 
-    $: current_flavor_id = $flavorStore
+    onMount(async () => {
+    let ses = window.sessionStorage.getItem("store")
+      if (ses) {
+        console.log("sob-- ~ loading ses", ses)
+        $curr_flavor_index = JSON.parse(ses)
+      }
+    savestore = true})
+
+	/*
+		}
+		} let current_flavor_id = flavorStore
     $: update_flavor(current_flavor_id)
     console.log(flavorRef)
 
     function update_flavor(current_flavor_id){
         if (current_flavor_id > flavorRef.length){
             current_flavor_id == 0
-            flavorStore.set(0)
+            flavorStore.set("amog")
         }
         console.log(current_flavor_id)
     }
+	*/
     
         //setup storage for first time
 </script>
@@ -36,7 +63,7 @@
 			<div class="mt2 mr3"><a class="link" href="projects">projects</a></div>
 			<div class="mt2 mr3"><a class="link" href="posts">blog</a></div>
 			<div class="site-flavor mt2 mr3">
-				<a class="link" href="javascript:;" on:click={()=> update_flavor(current_flavor_id++)}>placehold</a>
+				<a class="link" href="javascript:;" on:click={change_flavour}>placehold</a>
 			</div>
 		</div>
 		<div class="mw6"style="max-width:40rem">

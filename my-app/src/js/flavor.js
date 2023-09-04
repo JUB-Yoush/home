@@ -17,6 +17,7 @@ import { writable } from "svelte/store";
 		{ name: 'melon', bg_color: '#dff5de', text_color: '#0d142c', link_color: '#878f8f' }
 	];
 
+    /*
     const default_value = 0
     const initial_value = browser ? window.localStorage.getItem("flavor") ?? default_value : default_value;
 
@@ -25,5 +26,8 @@ import { writable } from "svelte/store";
     flavorStore.subscribe((value) => {
         if (browser){
             window.localStorage.setItem('flavor',value)
+            console.log(`from sub {window.localStorage.getItem('flavor')}`)
         }
     });
+    */
+   export const curr_flavor_index = writable(0);
