@@ -1,72 +1,10 @@
 <script>
 	import '../css/tachyons.css';
 	import '../css/global.css';
-    import {curr_flavor_index} from '../js/flavor'
-    import {flavorRef} from '../js/flavor'
-    import {onMount } from 'svelte'
-    import {writable} from 'svelte/store';
-	import {browser} from '$app/environment';
-	//FLAVOUR LOGIC
-	let local_flavor_index
-	let anchor_array = []
-	let read = false
-	curr_flavor_index.subscribe((index)=>local_flavor_index = index)
-	
-	
-
-	let savestore = false
-  $: if (savestore && $curr_flavor_index) {
-    window.sessionStorage.setItem("store", JSON.stringify($curr_flavor_index))
-  }
-
-    onMount(() => {
-		let ses = window.sessionStorage.getItem("store")
-		if (ses) {
-			console.log("sob-- ~ loading ses", ses)
-			$curr_flavor_index = JSON.parse(ses)
-		}
-		savestore = true
-		render_flavor(local_flavor_index)
-	})
-
-
-	function change_flavour(){
-		local_flavor_index += 1
-		if (local_flavor_index > flavorRef.length -1){
-            local_flavor_index = 0
-		}
-		//curr_flavor_index.set(local_flavor_index)
-		window.sessionStorage.setItem("store",local_flavor_index)
-		console.log(curr_flavor_index,local_flavor_index,typeof(local_flavor_index))
-		render_flavor(local_flavor_index)
-	}
-
-	let bodyStyles = {};
-	let linkStyles = {};
-	
-	function render_flavor(flavor_index){
-		if (browser) {
-			
-			const current_flavor = flavorRef[flavor_index]
-			const body = document.body
-
-			let links = document.getElementsByTagName("a");
-			for(var i=0;i<links.length;i++)
-			{   links[i].style.color = current_flavor.text_color;  
-				links[i].addEventListener('mouseover',function(){
-					this.style.color = current_flavor.link_color
-				});
-				links[i].addEventListener('mouseout',function(){
-					this.style.color = current_flavor.text_color
-				});}   
-
-			body.style.backgroundColor = current_flavor.bg_color
-			body.style.color = current_flavor.text_color
-		}
-	}
-    
-        //setup storage for first time
+   
 </script>
+
+
 
 <link href="https://fonts.googleapis.com/css?family=Spline Sans Mono" rel="stylesheet" />
 <div class="border pt4-ns">
