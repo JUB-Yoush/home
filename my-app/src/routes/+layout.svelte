@@ -1,10 +1,51 @@
 <script>
 	import '../css/tachyons.css';
 	import '../css/global.css';
-   
+	import {theme_index_store} from '../js/theme'
+	import {onMount} from 'svelte'
+
+	const themes = ["plain","mint"]
+	let theme_index = 0
+	let theme = "plain"
+
+	theme_index_store.subscribe((index)=>theme_index = index)
+
+	onMount(() => {
+        let ses = window.sessionStorage.getItem("store")
+        if (ses) {
+            console.log("sob-- ~ loading ses", ses)
+            $theme_index_store = JSON.parse(ses)
+        }
+        savestore = true
+    })
+
+
+	let savestore = false
+  $: if (savestore && $theme_index_store) {
+    window.sessionStorage.setItem("store", JSON.stringify($theme_index_store))
+  }
+	
+	function change_flavour(){
+		theme_index = theme_index+1
+		theme_index = theme_index % themes.length
+
+		window.sessionStorage.setItem("store",theme_index)
+		console.log(theme_index)
+		document.documentElement.setAttribute('data-theme',themes[theme_index])
+	}
+
 </script>
 
+<style>
+*{
+    background-color: var(--background-color);
+    color: var(--color);
 
+}
+a:hover{
+    color: var(--hover-color);
+}
+</style>
 
 <link href="https://fonts.googleapis.com/css?family=Spline Sans Mono" rel="stylesheet" />
 <div class="border pt4-ns">
@@ -19,7 +60,7 @@
 			<div class="mt2 mr3"><a class="" href="projects">projects</a></div>
 			<div class="mt2 mr3"><a class="" href="posts">blog</a></div>
 			<div class="site-flavor mt2 mr3">
-				<a class="" href="javascript:;" on:click={change_flavour}>{flavorRef[local_flavor_index].name}</a>
+				<a class="" href="javascript:;" on:click={change_flavour}>{themes[theme_index]}</a>
 			</div>
 		</div>
 		<div class="mw6"style="max-width:40rem">

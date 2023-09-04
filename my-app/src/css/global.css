@@ -1,3 +1,16 @@
+[data-theme='plain']{
+    --background-color:#e5d6cc;
+    --color:#171717;
+    --hover-color: #878f8f;
+}
+
+[data-theme='mint']{
+    --background-color:#e6f7ff;
+    --color:#3b3350;
+    --hover-color: #66b7b0;
+}
+
 html *{
     font-family: "Spline Sans Mono";
+    
 }

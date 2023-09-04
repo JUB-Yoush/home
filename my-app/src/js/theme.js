@@ -1,4 +1,3 @@
-import { browser } from "$app/environment";
 import { writable } from "svelte/store";
 
    export const flavorRef = [
@@ -30,4 +29,4 @@ import { writable } from "svelte/store";
         }
     });
     */
-   export const curr_flavor_index = writable(0);
+   export const theme_index_store = writable(0);
