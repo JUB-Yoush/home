@@ -13,6 +13,11 @@
 <script>
 	const themes = ["plain","mint"]
 	let theme_index = window.sessionStorage.getItem('store')
+	
+	if (theme_index == null){
+		theme_index = 0
+	}
+	
 	console.log("theme index: ",theme_index)
 	document.documentElement.setAttribute('data-theme',themes[theme_index])
 </script>
