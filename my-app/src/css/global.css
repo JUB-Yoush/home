@@ -11,6 +11,5 @@
 }
 
 html *{
-    font-family: "Spline Sans Mono";
-    
+    font-family: "Spline Sans Mono",'Courier New', Courier, monospace;
 }

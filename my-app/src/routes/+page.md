@@ -20,11 +20,11 @@ function swap_gif(){
 # Jaydenpb
 <img class="home-gif mw6 w-50 h-auto" style="" src={home_gifs[gif_number]} alt="">
 
-<a class="gif-changer" href="javascript:;" onclick="swap_gif()">{home_gif_quotes[gif_number]}</a>
+<a class="gif-changer" href="javascript:;" on:click={swap_gif}>{home_gif_quotes[gif_number]}</a>
 
 Ayo 
 
-I'm Jayden, a computer science student at the Lassonde school of Engineering (which is at York University) 
+I'm Jayden, a computer science student at the Lassonde school of Engineering (a part of York University) 
 If you're a recruiter who's found this link though my linkedin then you should definitely consider [hiring](/hire) me, Looking for Winter 2024 and Summer 2024 positions
 
 If you found this link through my discord then feel free to learn more [about me](/about) about me, check out what I'm [up to](/projects) or what I'm [thinking about](/posts).

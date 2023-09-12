@@ -54,13 +54,13 @@ a:hover{
 <body class=" ma2  flex flex-column justify-center items-center">
 	<div class="mr-auto ml-auto flex flex-column flex-row-ns">
 		<div class="mt3 tr flex flex-row flex-wrap flex-column-ns">
-			<div class="mt2 mr3"><a class="" href="index">home</a></div>
+			<div class="mt2 mr3"><a class="" href="/">home</a></div>
 			<div class="mt2 mr3"><a class="" href="about">about</a></div>
 			<div class="mt2 mr3"><a class="" href="resume">hire me 😳</a></div>
 			<div class="mt2 mr3"><a class="" href="projects">projects</a></div>
-			<div class="mt2 mr3"><a class="" href="posts">blog</a></div>
+			<div class="mt2 mr3"><a class="" href="blog">blog</a></div>
 			<div class="site-flavor mt2 mr3">
-				<a class="" href="javascript:;" on:click={change_flavour}>{themes[theme_index]}</a>
+				<a class="pointer underline"  on:click={change_flavour}>{themes[theme_index]}</a>
 			</div>
 		</div>
 		<div class="mw6"style="max-width:40rem">
