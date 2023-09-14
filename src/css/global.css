@@ -9,6 +9,31 @@
     --color:#3b3350;
     --hover-color: #66b7b0;
 }
+[data-theme='s.berry']{
+    --background-color:#ffcde6;
+    --color:#422549;
+    --hover-color: #f179a0;
+}
+[data-theme='banana']{
+    --background-color:#fffeb8;
+    --color:#493351;
+    --hover-color: #e9c46a;
+}
+[data-theme='peanut']{
+    --background-color:#fddebc;
+    --color:#411e2c;
+    --hover-color: #a97766;
+}
+[data-theme='grape']{
+    --background-color:#e7d4f6;
+    --color:#2c0d2c;
+    --hover-color: #7b60dd;
+}
+[data-theme='melon']{
+    --background-color:#dff5de;
+    --color:#0d142c;
+    --hover-color: #878f8f;
+}
 
 html *{
     font-family: "Spline Sans Mono",'Courier New', Courier, monospace;

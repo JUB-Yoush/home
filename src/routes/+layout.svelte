@@ -4,7 +4,7 @@
 	import {theme_index_store} from '../js/theme'
 	import {onMount} from 'svelte'
 
-	const themes = ["plain","mint"]
+	const themes = ["plain","mint","s.berry","banana","peanut","grape","melon"]
 	let theme_index = 0
 	let theme = "plain"
 

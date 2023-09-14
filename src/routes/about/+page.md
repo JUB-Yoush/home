@@ -1,5 +1,5 @@
 <script>
-const hobbies = ["still modding Nintendo stuff","learning another VScode Vim shortcut","breaking my linux installation","dreaming about being cool enough to use Raylib","finishing my drawabox homework", "learning about the Godot engine","playing the piano","making jazz playlists","thinking about turn-based RPGs","making up new serves in ping pong","mashing in Guilty Gear","reading the new One Piece chapter","emulating retro games","beating my cybergrind high-score","wishing they'd port Final Fantasy Tactics","trying to put on 5 lbs of muscle","designing Mercury Man lore"]
+const hobbies = ["remaking this website","still modding Nintendo stuff","learning another VScode Vim shortcut","breaking my linux installation","dreaming about being cool enough to use Raylib","finishing my drawabox homework", "learning about the Godot engine","playing the piano","making jazz playlists","thinking about turn-based RPGs","making up new serves in ping pong","mashing in Guilty Gear","reading the new One Piece chapter","emulating retro games","beating my cybergrind high-score","wishing they'd port Final Fantasy Tactics","trying to put on 5 lbs of muscle","designing Mercury Man lore"]
 
 let order = []
 let current_hobby = ''
