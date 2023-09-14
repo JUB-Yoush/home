@@ -37,7 +37,7 @@ a pdf copy can be found [here]("/")
 -   This was my first Internship. I had experience with wordpress and other CMS tools at the time and was given the opportunity to work with a web design company helping make website solutions for small businesses and charities.
 
 ## --Projects--
-I have a [page]("/projects") dedicated to those.
+I have a [page](/projects) dedicated to those.
 
 ## --Extra Curricular--
 ### Game Devs @ YorkU

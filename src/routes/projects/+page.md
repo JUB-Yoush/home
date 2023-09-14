@@ -1,37 +1,10 @@
-<script>
-import { compile } from 'mdsvex';
+# Projects
 
-const PROJECTS =[
-	{name:'pdp-rpg',
-	tags:['godot','raw skill'],
-	favorite:true,
-	date:'2023-05-12',
-	link:'https://github.com/JUB-Yoush/pdp-rpg',
-	description:
-	`
-- My submission for Yudum dare 3, our clubs third game jam (we hosted the global game jam).
+This page just has a selection of my favorite/recent projects.
 
-- A fusion between the puzzle game Panel de Pon (Tetris attack) and a turn based rpg.
-
-- One of the most challenging things I've ever coded. I will revisit this project.
-	`
-	},
-] 
-
-</script>
-
-<h1>Projects</h1>
+If you'd like to see everything else:
 <a href="https://github.com/JUB-Yoush/" target="_blank" >github</a>
 <a href="https://yoush.itch.io/" target="_blank" >itch.io</a>
-
-<p> This page just has a selection of my favorite/recent projects. If you'd like to see EVERYTHING I've ever done, [jaydenpb dot net slash EVERYTHING](/everything)</p>
-
-{#each PROJECTS as project}
-	if
-	<h3>{project.name}</h3>
-	<h4>{project.tags}</h4>
-{/each}
-
 
 ### <a href="https://github.com/JUB-Yoush/home" target="_blank" >This website</a>
 #### Sveltekit TacheyonsCSS
