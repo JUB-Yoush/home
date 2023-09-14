@@ -11,12 +11,15 @@
 	theme_index_store.subscribe((index)=>theme_index = index)
 
 	onMount(() => {
+		
         let ses = window.sessionStorage.getItem("store")
         if (ses) {
-            console.log("sob-- ~ loading ses", ses)
+            //console.log("sob-- ~ loading ses", ses)
             $theme_index_store = JSON.parse(ses)
+			document.documentElement.setAttribute('data-theme',themes[theme_index])
         }
         savestore = true
+		
     })
 
 

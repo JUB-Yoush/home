@@ -27,7 +27,7 @@ Ayo
 I'm Jayden, a computer science student at the Lassonde school of Engineering (a part of York University) 
 If you're a recruiter who's found this link though my linkedin or resume, then you should definitely consider [hiring](/resume) me, currently interning at Scotiabank, but looking for Winter 2024 and Summer 2024 positions.
 
-If you found this link through my discord then feel free to learn more [about me](/about) about me, check out what I'm [up to](/projects) or what I'm [thinking about](/blog).
+While you're here, feel free to learn more [about me](/about) about me, check out what I'm [up to](/projects) or what I'm [thinking about](/blog).
 
 regardless, thanks for checking out my site, feel free to reach out!
 
