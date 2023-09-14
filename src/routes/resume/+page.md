@@ -8,7 +8,7 @@ a pdf copy can be found [here]("/")
 
 - I like it here. 
 
-- I'm very happy with the friends and community I've been able to cultivate here, and feel like I'm making the most out of my time here. 
+- I'm very happy with the friends and community I've been able to cultivate, and feel like I'm making the most out of my time here. 
 
 
 ## --Work Experience--
