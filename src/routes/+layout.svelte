@@ -66,7 +66,7 @@ a:hover{
 				<a class="pointer underline"  on:click={change_flavour}>{themes[theme_index]}</a>
 			</div>
 		</div>
-		<div class="mw6"style="max-width:40rem">
+		<div class="mw6"style="max-width:50rem">
 			<slot />
 		</div>
 	</div>

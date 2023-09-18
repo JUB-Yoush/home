@@ -1,3 +1,6 @@
 {
-    "workbench.colorTheme": "Gruvbox Material Dark"
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "cSpell.words": [
+        "Hackathons"
+    ]
 }
