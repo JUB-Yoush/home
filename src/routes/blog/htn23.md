@@ -6,7 +6,7 @@ wip: "false"
 
 Anyone else miss [Reading Music!?](https://youtu.be/re1IjZsUGtU?si=HvzsnymtDP7xshZu)
 
-I was a hacker at [Hack the North](https://hackthenorth.com/) this year. As my second hackathon, it was a great time, and I'd definitely come back for next year. Each hackathon I attend makes me feel exponentially more prepared and knowledgeable about hackathons, and I though I would spread what conclusions I've come to draw from this event specifically.
+I was a hacker at [Hack the North](https://hackthenorth.com/) this year. As my second hackathon, it was a great time, and I'd definitely come back for next year. Each hackathon I attend makes me feel exponentially more prepared and knowledgeable about hackathons, and I thought I would spread what conclusions I've come to draw from this event specifically.
 
 So here are some of the things I learned at Hack the North (abbreviated to HTN from now on), to make the most of your time at HTN or any other hackathon.
 
