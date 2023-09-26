@@ -15,7 +15,7 @@ Deciding if you'd like to treat the event like a competition or a convention is 
 
 It's easy to want to work hard when everyone around you is (one of the reasons why people are able to be so motivated/productive at these things.), and if you get a sudden burst of motivation and decide to make something, that's great! Just don't treat your supposed to be chill project as something you're pushing to win a prize with. Just being surrounded by other people making things can help you make something too, even if you aren't trying to win anything.
 
-Don't feel bad for not wanting to skip sleep and debug deep into the early AM. If you don't want to build anything ambitious (or anything at all) and just connect with sponsors/other hackers, that's a just as valid way to treat the event. Just make sure how you'd like to go abut it aligns with your other group members. Make your goals clear.
+Don't feel bad for not wanting to skip sleep and debug deep into the early AM. If you don't want to build anything ambitious (or anything at all) and just connect with sponsors/other hackers, that's a just as valid way to treat the event. Just make sure how you'd like to go about it aligns with your other group members. Make your goals clear.
 
 
 ## 2. Consider your tools ahead of time 
