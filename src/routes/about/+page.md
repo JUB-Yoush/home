@@ -14,7 +14,6 @@ function shuffle_order(){
 
 function next_hobby(){
     current_hobby = hobbies[order.pop()]
-    console.log(order.length)
     if (order.length == 0){
         shuffle_order()
     }

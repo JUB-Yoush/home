@@ -16,7 +16,7 @@ a pdf copy can be found [here](https://drive.google.com/file/d/1g4SdWL6YSQNGU190
 #### Velocity Program: AppSec DevOps Team Sep-Dec 2023
 - My first Internship at a big Company!
 
-- Still getting on-boarded so I don't have *much* to say, but when they start letting me cook!? 😈
+- Haven't done much yet, but I've been tasked with refactoring/remaking some legacy APIs.
 
 ### Software Developer 
 #### M5V Developments May-Aug 2023

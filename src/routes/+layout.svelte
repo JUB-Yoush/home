@@ -33,7 +33,6 @@
 		theme_index = theme_index % themes.length
 
 		window.sessionStorage.setItem("store",theme_index)
-		console.log(theme_index)
 		document.documentElement.setAttribute('data-theme',themes[theme_index])
 	}
 
