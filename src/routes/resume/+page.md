@@ -1,7 +1,7 @@
 # Resume
-a pdf copy can be found [here]("/")
+a pdf copy can be found [here](https://drive.google.com/file/d/1g4SdWL6YSQNGU19040rIpMPDTiSelZk_/view?usp=sharing)
 
-## --Education--
+## Education
 ### Lassonde School of Engineering, York University
 #### Honours Bachelor of Arts in Computer Science, class of 2025
 - I go to Lassonde at York. 
@@ -11,7 +11,7 @@ a pdf copy can be found [here]("/")
 - I'm very happy with the friends and community I've been able to cultivate, and feel like I'm making the most out of my time here. 
 
 
-## --Work Experience--
+## Work Experience
 ### Scotiabank Software Engineering Intern
 #### Velocity Program: AppSec DevOps Team Sep-Dec 2023
 - My first Internship at a big Company!
@@ -36,10 +36,10 @@ a pdf copy can be found [here]("/")
 #### Tunji Design Jun-Sep 2021
 -   This was my first Internship. I had experience with wordpress and other CMS tools at the time and was given the opportunity to work with a web design company helping make website solutions for small businesses and charities.
 
-## --Projects--
+## Projects
 I have a [page](/projects) dedicated to those.
 
-## --Extra Curricular--
+## Extra Curricular
 ### Game Devs @ YorkU
 #### Founder and President Nov 2021 - Present
 - I started the game development club at York University, York was fully online at the time I had started there (Sept 2021), and I started the club through a mix of wanting to make friends and simply wanting to hang out in a game development club. There wasn't one so I decided to make one myself. 
