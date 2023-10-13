@@ -3,7 +3,6 @@
   const home_gifs = ["https://media.tenor.com/sK6ZPrUy2hMAAAAC/izu-shaboten-animal-park-capybara.gif","https://media.tenor.com/O45wy7ceQVEAAAAd/daigo-parry-fight.gif","https://media.tenor.com/qHGyE8XvwzUAAAAC/mother3.gif","https://media.tenor.com/U5ruYqXgPWIAAAAC/luffy-baron-omatsuri.gif"]
 const home_gif_quotes = ["capybara",'"Lets go Justin!!"',"Check out the site's color themes","I love one piece."]
 let gif_number = Math.floor(Math.random() * home_gifs.length)
-console.log("gif number",gif_number)
 
 
 function swap_gif(){
