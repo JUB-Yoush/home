@@ -1,7 +1,7 @@
 ---
 title: "Book Review #1" 
 date: "2023-10-13"
-wip: "false"
+wip: "true"
 ---
 
 Greetings, children, gather around as I divulge my wisen lived knoledge onto your consciousnesses, enriching your lives and ensuring the pipline to the deep work uptopia is well stocked.
