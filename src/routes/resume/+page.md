@@ -1,12 +1,10 @@
 # Resume
-a pdf copy can be found [here](https://drive.google.com/file/d/1g4SdWL6YSQNGU19040rIpMPDTiSelZk_/view?usp=sharing)
+a pdf copy can be found [here](https://drive.google.com/file/d/1nVaJ1Z8sA5iE_YDEoOEp4j_lXOrLW6Tp/view?usp=sharing)
 
 ## Education
 ### Lassonde School of Engineering, York University
 #### Honours Bachelor of Arts in Computer Science, class of 2025
 - I go to Lassonde at York. 
-
-- I like it here. 
 
 - I'm very happy with the friends and community I've been able to cultivate, and feel like I'm making the most out of my time here. 
 
@@ -14,9 +12,9 @@ a pdf copy can be found [here](https://drive.google.com/file/d/1g4SdWL6YSQNGU190
 ## Work Experience
 ### Scotiabank Software Engineering Intern
 #### Velocity Program: AppSec DevOps Team Sep-Dec 2023
-- My first Internship at a big Company!
+- My first Internship at a big company!
 
-- Haven't done much yet, but I've been tasked with refactoring/remaking some legacy APIs.
+- Currently working on a big project to automate the process of software scan results though Automating API calls.
 
 ### Software Developer 
 #### M5V Developments May-Aug 2023
@@ -39,7 +37,7 @@ a pdf copy can be found [here](https://drive.google.com/file/d/1g4SdWL6YSQNGU190
 ## Projects
 I have a [page](/projects) dedicated to those.
 
-## Extra Curricular
+## Extra Curriculars
 ### Game Devs @ YorkU
 #### Founder and President Nov 2021 - Present
 - I started the game development club at York University, York was fully online at the time I had started there (Sept 2021), and I started the club through a mix of wanting to make friends and simply wanting to hang out in a game development club. There wasn't one so I decided to make one myself. 
@@ -49,7 +47,7 @@ I have a [page](/projects) dedicated to those.
 - Shockingly, people showed up! Enough for us to apply to be a real club.
 
 - More than a year Later It's going much better than I could have ever imagined.
-  We have a discord server of over 400 people, an executive team of 10, Workshops, Community events, and a video-game book club (the true voting class of GDYU).
+  We have a discord server of over 620 people, an executive team of 13, Workshops, Community events, and a video-game book club (the true voting class of GDYU).
 
 - Check us out at [gdyu.club](https://www.gdyu.club/).
 
