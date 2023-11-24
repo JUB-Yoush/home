@@ -16,12 +16,10 @@ function swap_gif(){
 <div class = "home-content flex flex-column ">
 
 
-# Jaydenpb
-<img class="home-gif mw6 w-50 h-auto" style="" src={home_gifs[gif_number]} alt="">
+# Jayden Brooks
+<img class="home-gif mw7 w-50 h-auto" style="" src="pfp.jpg" alt="">
 
-<a class="gif-changer" href="javascript:;" on:click={swap_gif}>{home_gif_quotes[gif_number]}</a>
-
-Ayo 
+Hello! 
 
 I'm Jayden, a computer science student at the Lassonde school of Engineering (a part of York University) 
 
@@ -34,5 +32,5 @@ If you're a recruiter who's found this link though my linkedin or resume, then y
 
 Regardless, thanks for checking out my site, feel free to reach out!
 
-also if you go to York and are interested in game development, [gdyu.club](https://www.gdyu.club/)
+Also, if you go to York and are interested in game development, [gdyu.club](https://www.gdyu.club/)
 </div>
