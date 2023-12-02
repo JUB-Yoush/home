@@ -1,7 +1,7 @@
 ---
-title: "Jayden Journal Public Access: Winter 2024" 
+title: "Jayden Journal Public Access: Winter 2024 (wip)" 
 date: "2023-12-01"
-wip: "false"
+wip: "true"
 ---
 This is a new kind of post. Although considering I've only made 3 posts before this, there really isn't a status quo to break. It's one of those posts that's reserved for the biggest jaydenpb heads.
 
