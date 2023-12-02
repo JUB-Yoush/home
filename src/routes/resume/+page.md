@@ -10,11 +10,20 @@ a pdf copy can be found [here](https://drive.google.com/file/d/1nVaJ1Z8sA5iE_YDE
 
 
 ## Work Experience
-### Scotiabank Software Engineering Intern
+
+### Amplify Developer
+#### RBC Amplify Developer
+- Dw I've watched tons of Dragons Den at my grandmas house after elementary school. First place is mine.
+
+### Scotiabank Software Engineer
+#### Velocity Program: Java Event Layer Team Jan-Apr 2024
+- Resuming my Ping Pong era
+
+### Scotiabank DevOps Engineering
 #### Velocity Program: AppSec DevOps Team Sep-Dec 2023
 - My first Internship at a big company!
 
-- Currently working on a big project to automate the process of software scan results though Automating API calls.
+- Currently working on a big project to automate the process of software scan running and documenting with Next.js.
 
 ### Software Developer 
 #### M5V Developments May-Aug 2023
