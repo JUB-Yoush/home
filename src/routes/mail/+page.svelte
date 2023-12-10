@@ -44,3 +44,4 @@ Or whenever I feel like it
 <br>
 <button >subscribe</button>
 </form>
+<p>Error: invalid email or username.</p>
