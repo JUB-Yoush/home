@@ -28,7 +28,7 @@
 		}).then((response) => {
 			console.log('Everything cool fr')
 			console.log(response.status)
-			displayResult('Thanks for joining! Check your email (and un-mark me as spam 😳)')
+			displayResult('Thanks for joining! please un-mark me@jaydenpb.net as spam 😳)')
 			
 		}).catch(function (error) {
 		// handle error
@@ -49,6 +49,9 @@ Or whenever I feel like it.
 
 <br>
 <br>
+
+### Join the list:
+
 <form on:submit|preventDefault={handleSubmit} method="POST">
 
 <label for="email" >Email-></label>
@@ -57,7 +60,7 @@ Or whenever I feel like it.
 <label for="favSong">Favorite Album-></label>
 <input type="text" id="favSong"  bind:value={favSong}>
 <br>
-<button>[Subscribe]</button>
+<button>[Join]</button>
 </form>
 <p bind:this={resultTag} class='hide'>{resultText}</p>
 

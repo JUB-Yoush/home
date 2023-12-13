@@ -78,5 +78,6 @@ a:hover{
 		<a class="" href="https://www.linkedin.com/in/jaydenpb/" target="_blank">linkedin</a>
 		<a class="" href="https://github.com/JUB-Yoush" target="_blank">github</a>
 		<a class="" href="https://yoush.itch.io/" target="_blank">itch.io</a>
+		<a class="" href="/mail">mailing list</a>
 	</div>
 </body>
