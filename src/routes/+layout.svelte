@@ -47,6 +47,7 @@
 a:hover{
     color: var(--hover-color);
 }
+
 </style>
 
 <link href="https://fonts.googleapis.com/css?family=Spline Sans Mono" rel="stylesheet" />
