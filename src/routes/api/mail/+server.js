@@ -1,4 +1,5 @@
 import { json } from '@sveltejs/kit'
+import clientPromise from '../../../lib/mongodb-client.js';
 
 
 const validateEmail = (email) => {
@@ -9,10 +10,22 @@ const validateEmail = (email) => {
 //return appropriate status and message
 export async function POST(event){
 	const body = await event.request.json()
-	console.log(body.username, body.email)
-	if (validateEmail(body.email) == null || body.username.length < 1){
-		return new Response(JSON.stringify({msg:'invalid email or username'}),{status:400})
+	console.log(body.favSong, body.email)
+	if (validateEmail(body.email) == null || body.favSong.length < 1){
+		return new Response(JSON.stringify({msg:'invalid input'}),{status:400})
 	}
-	console.log('past the if')
-	return new Response(JSON.stringify({among:'us'}),{status:201})
+	//addToDB(body.favSong, body.email)
+	//add to database:
+	const dbConnection = await clientPromise
+	const db = dbConnection.db('mailDB');
+	//const db = clientPromise.db('mailDB')
+	const collection = db.collection('emails')
+	const emailObj = {
+		joined:new Date(),
+		email: body.email,
+		favAlbum: body.favSong
+	}
+	const newMail = await collection.insertOne(emailObj)
+	return new Response(JSON.stringify({content:emailObj}),{status:200})
 }
+

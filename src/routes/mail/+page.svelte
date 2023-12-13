@@ -1,6 +1,6 @@
 <script>
 	import axios from 'axios'
-	let username = ''
+	let favSong = ''
 	let email = ''
 	let resultTag
 	let resultText = ''
@@ -11,7 +11,7 @@
 	}
 
 	const handleSubmit = async () =>{
-		console.log(username,email)
+		console.log(favSong,email)
 
 		//validate email
 		
@@ -22,10 +22,19 @@
 				'Content-Type':'application/json'
 			},
 			data:{
-				username:username,
+				favSong:favSong,
 				email:email
 			},
-		}).then(response => console.log(response))	
+		}).then((response) => {
+			console.log('Everything cool fr')
+			console.log(response.status)
+			displayResult('Thanks for joining! Check your email (and un-mark me as spam 😳)')
+			
+		}).catch(function (error) {
+		// handle error
+		console.log(`ERROR IN REQUEST: ${error}`);
+		displayResult('ERROR: Invalid username or email')
+		})
 		
 	}
 </script>
@@ -41,13 +50,14 @@ Or whenever I feel like it.
 <br>
 <br>
 <form on:submit|preventDefault={handleSubmit} method="POST">
-<label for="name">name|</label>
-<input type="text" id="name"  bind:value={username}>
-<br>
-<label for="email" >email|</label>
+
+<label for="email" >Email-></label>
 <input type="text" id="email" bind:value={email}>
 <br>
-<button>&lt;subscribe&gt;</button>
+<label for="favSong">Favorite Album-></label>
+<input type="text" id="favSong"  bind:value={favSong}>
+<br>
+<button>[Subscribe]</button>
 </form>
 <p bind:this={resultTag} class='hide'>{resultText}</p>
 
