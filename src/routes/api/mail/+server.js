@@ -1,5 +1,4 @@
-import { json } from '@sveltejs/kit'
-import clientPromise from '../../../lib/mongodb-client.js';
+import clientPromise from '../../../lib/server/mongodb-client.js';
 
 
 const validateEmail = (email) => {
