@@ -1,5 +1,5 @@
-import {MONGODB_URI} from '$env/static/private'
-import {NODE_ENV} from '$env/static/private'
+import {MONGODB_URI} from '$env/dynamic/private'
+import {NODE_ENV} from '$env/dynamic/private'
 import { MongoClient } from 'mongodb'
 
 //const uri = process.env['MONGODB_URI']
