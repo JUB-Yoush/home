@@ -1,4 +1,3 @@
-import dotenv from 'dotenv'
 import {MONGODB_URI} from '$env/static/private'
 import {NODE_ENV} from '$env/static/private'
 import { MongoClient } from 'mongodb'
