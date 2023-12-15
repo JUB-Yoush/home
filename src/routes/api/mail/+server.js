@@ -1,4 +1,4 @@
-import clientPromise from '@lib/server/mongodb-client.js';
+import {clientPromise} from '$lib/server/mongodb-client.js';
 
 
 const validateEmail = (email) => {
