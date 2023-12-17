@@ -1,7 +1,5 @@
 <script>
-	import axios from 'axios'
-	let favSong = ''
-	let email = ''
+	export let form
 	let resultTag
 	let resultText = ''
 	
@@ -9,34 +7,10 @@
 		resultTag.classList.remove('hide')
 		resultText = msg
 	}
+	console.log(form)
 
-	const handleSubmit = async () =>{
-		console.log(favSong,email)
-
-		//validate email
-		
-		const request = axios({
-			method:'post',	
-			url:'/api/mail',
-			headers:{
-				'Content-Type':'application/json'
-			},
-			data:{
-				favSong:favSong,
-				email:email
-			},
-		}).then((response) => {
-			console.log('Everything cool fr')
-			console.log(response.status)
-			displayResult('Thanks for joining! please un-mark me@jaydenpb.net as spam 😳)')
-			
-		}).catch(function (error) {
-		// handle error
-		console.log(`ERROR IN REQUEST: ${error}`);
-		displayResult('ERROR: Invalid username or email')
-		})
-		
-	}
+	
+	
 </script>
 
 # jaydenpb.net mailing list.
@@ -57,10 +31,10 @@ Or whenever I feel like it.
 -->
 <form method="POST">
 <label for="email" >Email-></label>
-<input name="email" type="text" id="email" bind:value={email}>
+<input name="email" type="text" id="email">
 <br>
 <label for="favSong">Favorite Album-></label>
-<input name="favSong" type="text" id="favSong"  bind:value={favSong}>
+<input name="favSong" type="text" id="favSong">
 <br>
 <button type='submit'>[Join]</button>
 </form>
