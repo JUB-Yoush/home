@@ -1,4 +1,4 @@
-import {clientPromise} from '$lib/server/mongodb-client.js';
+import {myclientPromise} from '$lib/server/mongodb-client.js';
 
 
 const validateEmail = (email) => {
@@ -15,7 +15,7 @@ export async function POST(event){
 	}
 	//addToDB(body.favSong, body.email)
 	//add to database:
-	const dbConnection = await clientPromise
+	const dbConnection = await myclientPromise
 	const db = dbConnection.db('mailDB');
 	//const db = clientPromise.db('mailDB')
 	const collection = db.collection('emails')
