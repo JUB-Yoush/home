@@ -34,5 +34,8 @@ If you're a recruiter who's found this link though my linkedin or resume, then y
 
 Regardless, thanks for checking out my site, feel free to reach out!
 
-also if you go to York and are interested in game development, [gdyu.club](https://www.gdyu.club/)
+Also, if you go to York and are interested in game development, [gdyu.club](https://www.gdyu.club/)
+
+## HOT NEW FEATURE⁉️
+Sign up for my new [mailing list](/mail) and I'll send you emails.
 </div>

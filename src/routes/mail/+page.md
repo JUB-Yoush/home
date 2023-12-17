@@ -29,12 +29,13 @@ Or whenever I feel like it.
 <!--
 <form on:submit|preventDefault={handleSubmit} method="POST">
 -->
+<div class="formDiv">
 <form method="POST">
-<label for="email" >Your Email:</label>
-<input name="email" type="text" id="email">
+<label for="email" >Email:</label>
+<input name="email" type="text" id="email" size="10">
 <br>
-<label for="favSong">Your Favorite Album:</label>
-<input name="favSong" type="text" id="favSong">
+<label for="favSong">Favorite Album:</label>
+<input name="favSong" type="text" id="favSong" size="10">
 <br>
 <button type='submit'>[Join]</button>
 </form>
@@ -47,12 +48,14 @@ Or whenever I feel like it.
 	{/if}
 {/if}
 
+</div>
+<div class="padded"></div>
 <style>
 	.hide{
 		visibility: hidden;
 	}
 	input[type=text]{
-		border: 2px none var(--color);
+		border-width: 1px;
 		color: var(--color);
 	}
 	button{
@@ -61,5 +64,8 @@ Or whenever I feel like it.
 	}
 	button:hover{
 		cursor: pointer;
+	}
+	.padded{
+		margin-bottom: 10vh;
 	}
 </style>
