@@ -30,17 +30,17 @@ Or whenever I feel like it.
 <form on:submit|preventDefault={handleSubmit} method="POST">
 -->
 <form method="POST">
-<label for="email" >Email-></label>
+<label for="email" >Your Email:</label>
 <input name="email" type="text" id="email">
 <br>
-<label for="favSong">Favorite Album-></label>
+<label for="favSong">Your Favorite Album:</label>
 <input name="favSong" type="text" id="favSong">
 <br>
 <button type='submit'>[Join]</button>
 </form>
 {#if form != null}
 	{#if form.success == true}
-		<p>Email Recorded. Thank you for the new music.</p>
+		<p>Email Recorded. Thank you for the new music to check out.</p>
 	{/if}
 	{#if form.success == false}
 		<p>Error: Invalid email or Album input.</p>
