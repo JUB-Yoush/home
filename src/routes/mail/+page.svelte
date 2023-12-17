@@ -52,15 +52,17 @@ Or whenever I feel like it.
 
 ### Join the list:
 
+<!--
 <form on:submit|preventDefault={handleSubmit} method="POST">
-
+-->
+<form method="POST">
 <label for="email" >Email-></label>
-<input type="text" id="email" bind:value={email}>
+<input name="email" type="text" id="email" bind:value={email}>
 <br>
 <label for="favSong">Favorite Album-></label>
-<input type="text" id="favSong"  bind:value={favSong}>
+<input name="favSong" type="text" id="favSong"  bind:value={favSong}>
 <br>
-<button>[Join]</button>
+<button type='submit'>[Join]</button>
 </form>
 <p bind:this={resultTag} class='hide'>{resultText}</p>
 
