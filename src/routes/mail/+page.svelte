@@ -38,8 +38,14 @@ Or whenever I feel like it.
 <br>
 <button type='submit'>[Join]</button>
 </form>
-<p bind:this={resultTag} class='hide'>{resultText}</p>
-
+{#if form != null}
+	{#if form.success == true}
+		<p>Email Recorded. Thank you for the new music.</p>
+	{/if}
+	{#if form.success == false}
+		<p>Error: Invalid email or Album input.</p>
+	{/if}
+{/if}
 
 <style>
 	.hide{
