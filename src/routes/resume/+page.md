@@ -1,4 +1,4 @@
-# Resume
+# ~/resume
 a pdf copy can be found [here](https://file.notion.so/f/f/c477293f-b7c3-4cc8-b30a-761434e7ab2d/b3a73374-4a1e-4a38-afb9-f13385b5c56b/jayden_brooks_resume.pdf?id=774d2b8f-22ce-4ea4-8b5f-01bedb05e650&table=block&spaceId=c477293f-b7c3-4cc8-b30a-761434e7ab2d&expirationTimestamp=1704556800000&signature=hoT7yBVgXQJh4vZT3lHH8ApDwKQqfLspvzFOXuGfZ_s&downloadName=jayden_brooks_resume.pdf)
 
 ## Education

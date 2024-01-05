@@ -1,4 +1,4 @@
-# Projects
+# ~/projects
 
 This page just has a selection of my favorite/recent projects.
 

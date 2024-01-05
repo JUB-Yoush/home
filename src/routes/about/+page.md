@@ -25,7 +25,7 @@ shuffle_order()
 
 <div class = "home-content flex flex-column ">
 
-# About Me
+# ~/about-me
 
     <img class="mw6 w-40 h-auto" src="mm.png" alt="">
     <a class="source" href="https://www.instagram.com/apple_toast/?hl=en" target="_blank">mercury man commission by @apple_toast</a>

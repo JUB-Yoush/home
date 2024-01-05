@@ -12,7 +12,7 @@
 	
 	
 </script>
-
+# ~/mail
 # jaydenpb.net mailing list.
 
 Enter your email and I'll send you an email whenever a new blog post is out.
