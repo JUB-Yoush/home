@@ -1,5 +1,5 @@
 # Resume
-a pdf copy can be found [here](https://drive.google.com/file/d/1nVaJ1Z8sA5iE_YDEoOEp4j_lXOrLW6Tp/view?usp=sharing)
+a pdf copy can be found [here](https://file.notion.so/f/f/c477293f-b7c3-4cc8-b30a-761434e7ab2d/b3a73374-4a1e-4a38-afb9-f13385b5c56b/jayden_brooks_resume.pdf?id=774d2b8f-22ce-4ea4-8b5f-01bedb05e650&table=block&spaceId=c477293f-b7c3-4cc8-b30a-761434e7ab2d&expirationTimestamp=1704556800000&signature=hoT7yBVgXQJh4vZT3lHH8ApDwKQqfLspvzFOXuGfZ_s&downloadName=jayden_brooks_resume.pdf)
 
 ## Education
 ### Lassonde School of Engineering, York University
@@ -11,12 +11,17 @@ a pdf copy can be found [here](https://drive.google.com/file/d/1nVaJ1Z8sA5iE_YDE
 
 ## Work Experience
 ### Scotiabank Software Engineering Intern
+#### Velocity Program: Java Event Layer Team Jan-Apr 2024
+- My Second Term at Scotiabank, moving from the IT team to modern startup-y Digital Factory office down the street. My Lunchtime ping pong era has arrived.
+
+
+### Scotiabank DevOps Engineering Intern
 #### Velocity Program: AppSec DevOps Team Sep-Dec 2023
 - My first Internship at a big company!
 
-- Currently working on a big project to automate the process of software scan results though Automating API calls.
+- Worked on a Proof-of concept for a software system that automates the recording and displaying of software scan data.
+### Software Engineering Intern 
 
-### Software Developer 
 #### M5V Developments May-Aug 2023
 - I spent this summer with M5V developments, helping design some innovations to their backend management and content creation workflows.
 - I used Pytorch trained models to make video transcripts automatically, as well as used the openAI api to  automatically generate quizzes.

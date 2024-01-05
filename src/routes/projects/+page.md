@@ -7,14 +7,14 @@ If you'd like to see everything else:
 <a href="https://yoush.itch.io/" target="_blank" >itch.io</a>
 
 ### <a href="https://github.com/JUB-Yoush/ResumeRumble" target="_blank" >Resume Rumble</a>
-#### Next.js, React, Tailwind CSS, TypeScript, Prisma, MySQL, PlanetScale, AWS
+#### Next.js React Tailwind CSS TypeScript Prisma MySQL PlanetScale AWS
 - My team's project for Hack the Valley 2023. We wanted to make a resume reviewer but thought it would be funny to "gamify" it through adding things like "ranked resume battles" and a "resume elo score"  
 - We made a lot in 36 hours and I'm still very impressed w how it turned out (Araf carried us shout-out to the goat)
 - It's also live! you can check it out [here](https://www.getemployedin.tech/)
 
 
 ### <a href="https://github.com/JUB-Yoush/Piktocache" target="_blank" >Piktocache</a>
-#### React, Javascript, Firebase
+#### React Javascript Firebase
 - My team's project for Hack the north 2023 (the gdyu website worked!!!).
 - Inspired by Pictochat on the DS and local area message sharing, we made a website that only lets you view messages that were sent at the same IP address as you
 - It's like geocaching but you send messages!
