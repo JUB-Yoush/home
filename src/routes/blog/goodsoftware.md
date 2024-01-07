@@ -11,13 +11,19 @@ wip: "true"
 - attention economy, make money off our addictions
 - what I like in my software
 - unity vs godot stuff
-- not saying all of big tech is inheritly evil, these products have improved our lives
+- not saying all of big tech is inertly evil, these products have improved our lives
 - and there are some things that requires the scale of big tech, like google maps
 - but there are people making good software that respects you n stuff and you should check it out!
 
-Good software is worth your money. 
+Good software is important. 
 
-almost everyone interacts with software in some capacity every day. There's software we directly interact with, like web browsers, and software that work in the background of other processes that we aren't actively aware of or engage in, like a oven beeping once it's hit a certain temperature. 
+One of my goals before I die is to make the world a better place then I had found it. which isn't really practical considering all of the factors outside my control. I'm one person, and the influence I have is relatively small. It's also quite difficult to quantify the "quality" of the "entire world", so instead of trying to improve everything, I should just stick to somthing. find a plot of land in this "world" that I would want to improve, and tend to it, and make it better.
+
+Software is unique because it's functionally infinitely reproducable (assuming in infinite number of storage), meaning it will always eventually be more valuable then the effort it took to make it. This gives software the ability to be trenedously valuable, and could allow one person or a handful of people to improve the lives of a seemingly unbounded amount of people.
+
+And that's what's happened time and time again within the last few decades. we've seen software that is able to revolutionize how things are done, to how we live our lives. It's strange to think of a time without the internet especially if you never knew a time without one.
+
+and jobs with large social and societal impact are conpensated as such. high paying professions are (usually) compensated as such due to the trust and responsibility people put into the ones who make the things they rely and depend on. Civil engineers are paid as they are because we trust them to make bridges that don't collapse, surgeons are trusted to be able to preform brain surgery. and Software engineers are paid as they are to capuitulate to corpos aint that the truth  
 
 both those kinds of software are tremendously important for our day to day lives, and we all to varying degrees rely on them. however there has been a clear and quite concerning change in how this software is sold and maintained that is indicative of societal changes.
 
