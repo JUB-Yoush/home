@@ -38,3 +38,12 @@
 html *{
     font-family: "Spline Sans Mono",'Courier New', Courier, monospace;
 }
+
+
+code{
+    font-family:monospace ;
+}
+
+pre{
+    font-family:monospace ;
+}
