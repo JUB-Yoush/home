@@ -1,8 +1,12 @@
 ---
-title: "how i study" 
+title: "How I Study" 
 date: "2023-10-26"
 wip: "false"
 ---
+
+---
+### Edits:
+> 2024-02-11: Added that I listen to DnB as well as told you to go to sleep and wake up and the same time every day
 
 One of my friends asked me for study tips and I thought sharing it publicly could help other people who were interested.
 
@@ -36,14 +40,14 @@ Not everything I do is going to work for you. Take what works leave what doesn't
 - There are also those study with me videos if you think those will motivate you.
 - Any pomodoro timer will do, anything that can track sessions and what you were working on
 
-### Your environment matters  
+### Your environment matters
 - Make it as frictionless to study as possible, and make it as difficult to be distracted as possible.
 - Put your phone in another room.
-- Listening to music or not varies from person to person. I listen to Jazz standards or rain noises.
+- Listening to music or not varies from person to person. I listen to Jazz standards or DnB mixes or rain noises.
 
 ### Health stuff
 - Have a chair that you don't hate sitting on, stand up and stare out a window during your breaks.
-- Get 8 hours of sleep, but if you're reading this then you've likely talked to me enough to have heard this from me by now.
+- Get 8 hours of sleep, try to go to sleep and wake up at the same time every day (even the weekends). But if you're reading this then you've likely talked to me enough to have heard this from me by now.
 - Get a blue light shifter on your computer if you study late, [f.lux](https://justgetflux.com/) works.
 - Get some exercise, your body and brain likes it.
 - Have a big bottle of water next to you, the extra trips to the bathroom are worth it.

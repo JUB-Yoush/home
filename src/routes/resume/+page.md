@@ -1,5 +1,5 @@
 # ~/resume
-a pdf copy can be found [here](https://file.notion.so/f/f/c477293f-b7c3-4cc8-b30a-761434e7ab2d/b3a73374-4a1e-4a38-afb9-f13385b5c56b/jayden_brooks_resume.pdf?id=774d2b8f-22ce-4ea4-8b5f-01bedb05e650&table=block&spaceId=c477293f-b7c3-4cc8-b30a-761434e7ab2d&expirationTimestamp=1704556800000&signature=hoT7yBVgXQJh4vZT3lHH8ApDwKQqfLspvzFOXuGfZ_s&downloadName=jayden_brooks_resume.pdf)
+a pdf copy can be found [here](https://file.notion.so/f/f/c477293f-b7c3-4cc8-b30a-761434e7ab2d/d527aa1a-39ad-4bcf-a521-6c8c2d5edfb6/jayden_brooks_resume.pdf?id=afd8b554-470a-4aad-b743-ae35e4ceff72&table=block&spaceId=c477293f-b7c3-4cc8-b30a-761434e7ab2d&expirationTimestamp=1707768000000&signature=wnRrFqgyr1bUr5TTktnhWAWR13buWFt8bElA69982-k&downloadName=jayden_brooks_resume.pdf)
 
 ## Education
 ### Lassonde School of Engineering, York University
@@ -12,7 +12,9 @@ a pdf copy can be found [here](https://file.notion.so/f/f/c477293f-b7c3-4cc8-b30
 ## Work Experience
 ### Scotiabank Software Engineering Intern
 #### Velocity Program: Java Event Layer Team Jan-Apr 2024
-- My Second Term at Scotiabank, moving from the IT team to modern startup-y Digital Factory office down the street. My Lunchtime ping pong era has arrived.
+- My Second Term at Scotiabank, moving from the IT team to the Digital Factory office down the street. My Lunchtime ping pong era has arrived.
+
+- Working with Typescript and Playwright to do UI testing.
 
 
 ### Scotiabank DevOps Engineering Intern
@@ -24,6 +26,7 @@ a pdf copy can be found [here](https://file.notion.so/f/f/c477293f-b7c3-4cc8-b30
 
 #### M5V Developments May-Aug 2023
 - I spent this summer with M5V developments, helping design some innovations to their backend management and content creation workflows.
+
 - I used Pytorch trained models to make video transcripts automatically, as well as used the openAI api to  automatically generate quizzes.
 
 ### Private Computer Science Instructor

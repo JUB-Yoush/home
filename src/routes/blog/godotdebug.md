@@ -4,6 +4,7 @@ date: "2024-02-11"
 wip: "false"
 ---
 
+---
 [y'know even I was forgetting reading music, my bad](https://youtu.be/u3w4FCTcfME?si=2zM6Wqnxnl8mmwx7)
 
 ### My blog posts were getting too long. 

@@ -4,6 +4,10 @@ date: "2023-10-17"
 wip: "false"
 ---
 
+---
+### edits:
+>2024-02-11: added section about speaking to Quinn.
+
 *Capitan Disillusion voice
 
 "Greetings, children!"
@@ -107,6 +111,9 @@ Make whatever you'd like. Don't be concerned about some grand master plan or uni
 Give your secrets away, cite your sources. My site is a horrible rip-off of the design made by [Quinn Ha](https://www.quinnha.xyz/), a student from McMaster who's site I found on LinkedIn. As far as applying the books lessons about "stealing" I did a pretty bad job, I've added a few of my own touches but I'm still looking for ways to break away from the similar mold and make something genuinely mine. 
 
 Thanks for making an inspiring site Quinn.
+
+(edit: Additionally, I've spoken to Quinn recently through a mutual friend. He's cool with me plagerizing his site 😳. I'll make it less Quinn-y with time.)
+
 
 But back to the advice-
 

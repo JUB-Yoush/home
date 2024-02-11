@@ -3,6 +3,8 @@ title: "Jayden Journal Public Access: Winter 2024"
 date: "2023-12-02"
 wip: "false"
 ---
+
+---
 I'm gonna tell you what I'll be up to.
 
 I usually write daily, weekly, and seasonal goals in my Journal. But for those of you who are curious and for the extra added accountability of sharing what I'm doing publicly, I thought I'd be a interesting idea to share my winter seasonal goals with all of you who are curious.
@@ -14,8 +16,6 @@ But before we get into what I'll be up to, we need to talk about what I've *been
 I was able to get a lot of good and important work done, although I fell quite short on the amount of personal/hobby work I was able to accomplish. 
 
 ## School/Work
-
-The biggest thing for me was Securing 8 more months of internships, which I was able to do. I'll be going to another team in Scotiabank for the winter, and I'll be participating in the RBC Amplify program as a developer in the summer. 
 
 For my current internship, I've been doing a great job. My Manager had said I could return for another 4 months I wanted to, but I chose to do another 4 months in another team. The two other interns an I are working on a big end of term project. I can give a brief review of my time at Scotiabank on the Application Security Team.
 
@@ -48,7 +48,7 @@ Okay I think that's it.
 
 As for school, I was doing full time co-op so not much to report.
 
-Also got back into Leetcode. Working through the [Neetcode 150]("https://neetcode.io/roadmap") Roadmap. It's definitely what I'd suggest to anyone who's looking to get into Leetcode. I'm putting this under school/work because honestly if It wasn't for these being asked in job interviews I wouldn't be doing them. Considering I have 2 more internships lined up after this one my motivation to do these has plummeted, but I'll try to stay consistent.
+Also got back into Leetcode. Working through the [Neetcode 150]("https://neetcode.io/roadmap") Roadmap. It's definitely what I'd suggest to anyone who's looking to get into Leetcode. I'm putting this under school/work because honestly if It wasn't for these being asked in job interviews I wouldn't be doing them. Considering I have 1 more internship lined up after this one my motivation to do these has plummeted, but I'll try to stay consistent.
 
 ## GDYU
 

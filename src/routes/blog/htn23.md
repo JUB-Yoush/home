@@ -4,6 +4,7 @@ date: "2023-09-25"
 wip: "false"
 ---
 
+---
 Anyone else miss [Reading Music!?](https://youtu.be/re1IjZsUGtU?si=HvzsnymtDP7xshZu)
 
 I was a hacker at [Hack the North](https://hackthenorth.com/) this year. As my second hackathon, it was a great time, and I'd definitely come back for next year. Each hackathon I attend makes me feel exponentially more prepared and knowledgeable about hackathons, and I thought I would spread what conclusions I've come to draw from this event specifically.
