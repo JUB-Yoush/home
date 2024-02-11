@@ -1,6 +1,6 @@
 ---
-title: "Good Software is Important" 
-date: "2024-01-05"
+title: "talking at length about software (wip)" 
+date: "2024-02-11"
 wip: "true"
 ---
 

@@ -38,4 +38,5 @@ Also, if you go to York and are interested in game development, [gdyu.club](http
 
 ## HOT NEW FEATURE⁉️
 Sign up for my new [mailing list](/mail) and I'll send you emails.
+nvm it's a lil brokey rn (will fix when I make time for it)
 </div>

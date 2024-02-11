@@ -14,6 +14,7 @@
 </script>
 # ~/mail
 # jaydenpb.net mailing list.
+(currenty 504s, will fix)
 
 Enter your email and I'll send you an email whenever a new blog post is out.
 
