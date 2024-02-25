@@ -4,6 +4,10 @@ date: "2024-02-25"
 wip: "false"
 ---
 
+---
+[They're on tour but are only doing west coast shows in NA... don't hmu](https://youtu.be/HW367HtrXE0?si=N5_eBo_4OMO736RY)
+
+
 # My Favorite things from the last 3 months
 Cool things I played or saw or used or checked out,
 
