@@ -14,7 +14,7 @@ As long as it's a noun it can qualify.
 And these are NOT in any sorted order.
 
 ## [Emacs Org mode/Orgzly](https://orgmode.org/)
-orginize my life
+Emacs org mode is a orginization system. It uses Org files, which are a type of markup file. 
 
 ## [Regolith WM (also Doom Emacs)](https://regolith-desktop.com/)
 Regolith is i3 running in gnome-session. If that means anything to you then you'd probably go "oh cool" or *gauche scoff* "You still need gnome-session? Talk about *bloat**".
@@ -25,20 +25,20 @@ It's nice once you get used to it.
 
 I used to use i3 but my biggest issue was the overlap and conflicts between it and the existing gnome tools on my machine. i3 feels like it's meant for people not using binary based distributions of linux, and pick every piece of the setup themselves. Regolith solves *most* of those issues with i3, which is cool.
 
-Also emacs is cool but I already [wrote about that](https://www.jaydenpb.net/blog/godotdebug) so Just check that out.
+Also Emacs is cool but I already [wrote about that](https://www.jaydenpb.net/blog/godotdebug) so Just check that out.
 
 ## [ULTRAKILL: VIOLENT NIGHT update](https://store.steampowered.com/app/1229490/ULTRAKILL/)
  I say this every time new Ultrakill levels come out but it's always weird to play an Ultrakill levels who's layouts and placements of enemies I haven't memorized. 
 
 I must admit that P-2 and all of these Levels continue to be P-rank-less. I've been taking it easy on my ultrakilling recently. Although I did learn the maurice insta-kill and they did add the ability to map seperate feedbacker and knuckleblaster buttons which is a great change.
 
-The levels themselves are really good. They're different, and focus a bit more on enviromental storytelling, vibes, and setting a tone. It feels like there is a cohesive story across the 4 levels (except for the boss idk what that was about lol), and plays with the idea of what a "Violence" layer in a game already called ULTRAKILL would be like.
+The levels themselves are really good. They're different, and focus a bit more on enviromental storytelling, vibes, and setting a tone. It feels like there is a cohesive story across the 4 levels, and plays with the idea of what a "Violence" layer in a game already called ULTRAKILL would be like.
 
 Go play Ultrakill.
 
 
 ## [R4: Ridge Racer Type 4](https://downloads.khinsider.com/game-soundtracks/album/r4-ridge-racer-type-4)
-Ridge Racer 4 (henceforth referred to as R4) is vibes. The quality of the experince hinges on it's vibes. The Insert Credit podcast recenty asked the question "Does good gameplay need to be the foundational principe of a good video game". And I think R4 is an example of how an okay driving game can be elevated to really great driving game not by making the driving really good (the driving is *fine*) but by having the entire experince around the driving be *sick as heck*
+Ridge Racer 4 (henceforth referred to as R4) is vibes. The quality of the experince hinges on it's vibes. The Insert Credit podcast recenty asked the question "Does good gameplay need to be the foundational principe of a good video game?". And I think R4 is an example of how an okay driving game can be elevated to really great driving game not by making the driving really good, but by having the entire experince around the driving be *sick as heck*
 
 My head-canon theory is that Namco's sound team really wanted to release a Liquid Intelligent Drum 'n Bass album, but Namco was a video game company. So they simply decided to make the album about ridge racer, and release it as the sound-track to the game.
 
@@ -46,7 +46,7 @@ R4 is an album that comes with a driving game to play while you listen. You can 
 
 Outside of the music, the menus and ui (when you're not actually driving lol) also contribute to a very intentional, well-desinged, artful experince. The vibes are seeping out this game at an uncontrollable rate.
 
-Get the game and race around listening to some chilled out DnB grooves. Listen to the whole album. Then play somthing else.
+Get the game and race around listening to some chilled out DnB grooves. Listen to the whole album. Then play somthing else I guess.
 
 ## [Bidet](https://www.youtube.com/watch?v=quvJvFO_9uA)
 The only thing I asked for explicitly for christmas was a bidet.
@@ -55,7 +55,7 @@ I recived the bidet.
 
 I am clean.
 
-## Rustlings
+## [Rustlings](https://github.com/rust-lang/rustlings)
 Rust is cool. It's the power of a low-level language with the ergonomics of a high level language.if you've heard anything about rust it's that it's "safe". That means you don't (directly) manage memory, rust's compiler forces you to write your code in a way that ensures no null pointer errors can occur. You're coding wtih gaurd-rails on essentially, and it comes with a steep learning curve, and some practices that might feel odd compared to other languages.
 
 Rustlings is a set of interactive rust snippets that you write and/or fix. The tool then checks for completion and lets you continue. I found it to be a great way to learn while doing. 
@@ -63,7 +63,7 @@ Rustlings is a set of interactive rust snippets that you write and/or fix. The t
 Haven't written that much rust, mostly because I haven't really come up with anything good to do in it yet. Bevy is a thing that I'll probably check out, and Emulation is still somthing I'd like to try my hand at, but for those of you who want to check out rust, use the rust book (and rustlings!!)
 
 
-## Shin Godzilla
+## [Shin Godzilla](https://mynameismitchell.wordpress.com/2019/06/06/shin-godzilla-the-fukushima-allegory-2017/)
 Hideaki Anno (the Evangelion guy) made a Godzilla movie about people talking in rooms (while Evangelion music plays). 
 
 And Trains!
