@@ -1,15 +1,13 @@
 ---
-title: "My Favorite Things w24" 
-date: "2024-02-24"
-wip: "true"
+title: "My Favorite Things w24"
+date: "2024-02-25"
+wip: "false"
 ---
 
 # My Favorite things from the last 3 months
-Cool things I played or saw or used or checked out, 
+Cool things I played or saw or used or checked out,
 
-Any medium, any experince.
-
-As long as it's a noun it can qualify.
+Any medium, any experience.
 
 And these are NOT in any sorted order.
 
@@ -18,10 +16,12 @@ And these are NOT in any sorted order.
 
 It's a file format and emacs plugin that combines the functionality of Google calendar, Notion, Obsidian, todoist, and much more. I've only gotten familiar with the basics but it's replaced all the previously mentioned applications and has been exactly what I've been looking for for a while.
 
+Orgzly lets you view and sync org files to your (android) phone!
+
 ## [Regolith WM (also Doom Emacs)](https://regolith-desktop.com/)
 Regolith is i3 running in gnome-session. If that means anything to you then you'd probably go "oh cool" or *scoff* "You still need gnome-session? Talk about *bloat**".
 
-If that previous sentence was un-parsable that is to be expected. Regolith is a linux window manager. A Window manager is what you use to manage how applications are sorted and displayed on your monitor(s). Regolith is built on i3 (or sway), which is a tiling window manager. This means windows tile to take up the maximum amount of space on your screen. i3 is also workspace based. Pressing Mod (the windows key) + a number on your keyboard will switch to another virtual monitor. 
+If that previous sentence was un-parsable that is to be expected. Regolith is a linux window manager. A Window manager is what you use to manage how applications are sorted and displayed on your monitor(s). Regolith is built on i3 (or sway), which is a tiling window manager. This means windows tile to take up the maximum amount of space on your screen. i3 is also workspace based. Pressing Mod (the windows key) + a number on your keyboard will switch to another virtual monitor.
 
 It's nice once you get used to it.
 
@@ -30,7 +30,7 @@ I used to use i3 but my biggest issue was the overlap and conflicts between it a
 Also Emacs is cool but I already [wrote about that](https://www.jaydenpb.net/blog/godotdebug) so Just check that out.
 
 ## [ULTRAKILL: VIOLENT NIGHT update](https://store.steampowered.com/app/1229490/ULTRAKILL/)
- I say this every time new Ultrakill levels come out but it's always weird to play an Ultrakill levels who's layouts and placements of enemies I haven't memorized. 
+ I say this every time new Ultrakill levels come out but it's always weird to play an Ultrakill levels who's layouts and placements of enemies I haven't memorized.
 
 I must admit that P-2 and all of these Levels continue to be P-rank-less. I've been taking it easy on my ultrakilling recently. Although I did learn the maurice insta-kill and they did add the ability to map seperate feedbacker and knuckleblaster buttons which is a great change.
 
@@ -58,15 +58,15 @@ I recived the bidet.
 I am clean.
 
 ## [Rustlings](https://github.com/rust-lang/rustlings)
-Rust is cool. It's the power of a low-level language with the ergonomics of a high level language. If you've heard anything about Rust it's that it's "safe". That means you don't (directly) manage memory, Rust's compiler forces you to write your code in a way that ensures no memory mis-management occurs. You're coding wtih gaurd-rails on essentially, and it comes with a steep learning curve because of that. 
+Rust is cool. It's the power of a low-level language with the ergonomics of a high level language. If you've heard anything about Rust it's that it's "safe". That means you don't (directly) manage memory, Rust's compiler forces you to write your code in a way that ensures no memory mis-management occurs. You're coding wtih gaurd-rails on essentially, and it comes with a steep learning curve because of that.
 
-Rustlings is a Rust tutorial that teaches you through Rust snippets that you write and/or fix. The live tool then automatically tests it against test cases. I found it to be a great way to learn while doing, as someone who really dislikes tutorials these days. 
+Rustlings is a Rust tutorial that teaches you through Rust snippets that you write and/or fix. The live tool then automatically tests it against test cases. I found it to be a great way to learn while doing, as someone who really dislikes tutorials these days.
 
 Haven't written that much Rust, mostly because I haven't really come up with anything good to do in it yet. Bevy is a thing that I'll probably check out, and Emulation is still somthing I'd like to try my hand at, but if you too are interested in checking out Rust, use the Rust book (and rustlings)!!
 
 
 ## [Shin Godzilla](https://mynameismitchell.wordpress.com/2019/06/06/shin-godzilla-the-fukushima-allegory-2017/)
-Hideaki Anno (the Evangelion guy) made a Godzilla movie about people talking in rooms (while Evangelion music plays). 
+Hideaki Anno (the Evangelion guy) made a Godzilla movie about people talking in rooms (while Evangelion music plays).
 
 And Trains!
 
@@ -83,9 +83,9 @@ It's interesting how much Kojima wants to make movies considering his video game
 
 I knew Death Stranding predicted the Pandemic, but MGS2 before it predicted... a lot.
 
-Like how the digital age will cause changes to media and how it will effect us. 
+Like how the digital age will cause changes to media and how it will effect us.
 
-Changes and effects that we have been seriously feeling the last couple of years. 
+Changes and effects that we have been seriously feeling the last couple of years.
 
 Kojima talks about that in this game.
 
@@ -105,7 +105,7 @@ Again, no spoilers 😳
 ## [Wanikani](https://www.wanikani.com/)
 I've been learning Japanese!!
 
-Learning the Kanji and vocabulary that uses them is a daunting endevour. The Kanji for Life（生）has 20 different readings depending on the word it's used in. 
+Learning the Kanji and vocabulary that uses them is a daunting endevour. The Kanji for Life（生）has 20 different readings depending on the word it's used in.
 
 Wanikani makes it simple.
 
@@ -118,7 +118,7 @@ It's completley managed for you, which considering there's a lot of other things
 It is a subscription product, and using Anki + Remembering the Kanji would probably suffice as well, but Wanikani is great if you can afford it.
 
 ## [Earthbound Hobonichi Journal](https://www.1101.com/mother_project/items/index_en.html)
-Expensive japanese journal with PAPER SOLD SEPERATLEY that I've always really wanted and found one at not a horribly expensive price 
+Expensive japanese journal with PAPER SOLD SEPERATLEY that I've always really wanted and found one at not a horribly expensive price
 Although I struggle to find things to write in it? All my journaling and todo-list-ing is done in org mode, so I usually just make a todolist in the hobonichi on weekends.
 
 
