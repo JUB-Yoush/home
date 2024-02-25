@@ -1,3 +1,4 @@
+import { writable } from "svelte/store";
    export const flavorRef = [
 		{ name: 'plain', bg_color: '#e5d6cc', text_color: '#171717', link_color: '#878f8f' },
 
@@ -14,3 +15,4 @@
 		{ name: 'melon', bg_color: '#dff5de', text_color: '#0d142c', link_color: '#878f8f' }
 	];
 
+export const theme_index_store = writable(0);

@@ -14,10 +14,12 @@ As long as it's a noun it can qualify.
 And these are NOT in any sorted order.
 
 ## [Emacs Org mode/Orgzly](https://orgmode.org/)
-Emacs org mode is a orginization system. It uses Org files, which are a type of markup file. 
+"A GNU Emacs major mode for keeping notes, authoring documents, computational notebooks, literate programming, maintaining to-do lists, planning projects, and more — in a fast and effective plain text system."
+
+It's a file format and emacs plugin that combines the functionality of Google calendar, Notion, Obsidian, todoist, and much more. I've only gotten familiar with the basics but it's replaced all the previously mentioned applications and has been exactly what I've been looking for for a while.
 
 ## [Regolith WM (also Doom Emacs)](https://regolith-desktop.com/)
-Regolith is i3 running in gnome-session. If that means anything to you then you'd probably go "oh cool" or *gauche scoff* "You still need gnome-session? Talk about *bloat**".
+Regolith is i3 running in gnome-session. If that means anything to you then you'd probably go "oh cool" or *scoff* "You still need gnome-session? Talk about *bloat**".
 
 If that previous sentence was un-parsable that is to be expected. Regolith is a linux window manager. A Window manager is what you use to manage how applications are sorted and displayed on your monitor(s). Regolith is built on i3 (or sway), which is a tiling window manager. This means windows tile to take up the maximum amount of space on your screen. i3 is also workspace based. Pressing Mod (the windows key) + a number on your keyboard will switch to another virtual monitor. 
 
@@ -56,11 +58,11 @@ I recived the bidet.
 I am clean.
 
 ## [Rustlings](https://github.com/rust-lang/rustlings)
-Rust is cool. It's the power of a low-level language with the ergonomics of a high level language.if you've heard anything about rust it's that it's "safe". That means you don't (directly) manage memory, rust's compiler forces you to write your code in a way that ensures no null pointer errors can occur. You're coding wtih gaurd-rails on essentially, and it comes with a steep learning curve, and some practices that might feel odd compared to other languages.
+Rust is cool. It's the power of a low-level language with the ergonomics of a high level language. If you've heard anything about Rust it's that it's "safe". That means you don't (directly) manage memory, Rust's compiler forces you to write your code in a way that ensures no memory mis-management occurs. You're coding wtih gaurd-rails on essentially, and it comes with a steep learning curve because of that. 
 
-Rustlings is a set of interactive rust snippets that you write and/or fix. The tool then checks for completion and lets you continue. I found it to be a great way to learn while doing. 
+Rustlings is a Rust tutorial that teaches you through Rust snippets that you write and/or fix. The live tool then automatically tests it against test cases. I found it to be a great way to learn while doing, as someone who really dislikes tutorials these days. 
 
-Haven't written that much rust, mostly because I haven't really come up with anything good to do in it yet. Bevy is a thing that I'll probably check out, and Emulation is still somthing I'd like to try my hand at, but for those of you who want to check out rust, use the rust book (and rustlings!!)
+Haven't written that much Rust, mostly because I haven't really come up with anything good to do in it yet. Bevy is a thing that I'll probably check out, and Emulation is still somthing I'd like to try my hand at, but if you too are interested in checking out Rust, use the Rust book (and rustlings)!!
 
 
 ## [Shin Godzilla](https://mynameismitchell.wordpress.com/2019/06/06/shin-godzilla-the-fukushima-allegory-2017/)
@@ -76,10 +78,10 @@ I was smoking on that Anno's pack fr. I'll watch the rest of those rebuild movie
 
 Speaking of artist who's pack I am definetly high on
 
-## Metal Gear Solid 2: Sons of Liberty
+## [Metal Gear Solid 2: Sons of Liberty](https://youtu.be/dHSn1WbJ-ss?si=bdEPtVxD82EWPY2R)
 It's interesting how much Kojima wants to make movies considering his video games do extremely weird video game stuff.
 
-I knew Death Stranding predicted the Pandemic, but MGS2 predicted... a lot.
+I knew Death Stranding predicted the Pandemic, but MGS2 before it predicted... a lot.
 
 Like how the digital age will cause changes to media and how it will effect us. 
 
@@ -91,21 +93,19 @@ in 2001.
 
 No spoilers 😳
 
-## Void Stranger
-This game is not *just* a gameboy themed sokoban game.
+## [Void Stranger](https://system-erasure.itch.io/void-stranger)
+This game is not *just* a sokoban puzzle game with gameboy graphics.
 
-It's a lot more then it seems.
-
-Everyone in the insert credit forums were clamoring over this game
+It's more then it seems.
 
 Again, no spoilers 😳
 
-## wanikani
+(Also buy it on itch.io, it's DRM free and comes with a steam key too.)
+
+## [Wanikani](https://www.wanikani.com/)
 I've been learning Japanese!!
 
-Learning the Kanji and vocabulary that uses them is a daunting endevour. 
-
-the Kanji for Life（生）has 18 different readings depending on the word it's used in. 
+Learning the Kanji and vocabulary that uses them is a daunting endevour. The Kanji for Life（生）has 20 different readings depending on the word it's used in. 
 
 Wanikani makes it simple.
 
@@ -113,22 +113,28 @@ Not EASY, but simple.
 
 I show up 3 times a day, and spend 60 minutes total reviewing flashcards through a spaced repetiton system.
 
-It's completley handheld, which considering there's a lot of other things I need to do (GRAMMAR), being able to have wanikani manage itself is very nice. It also has a great API with lots of user made plugins to enhance the experince, along with a community of other Japanese language learners.
+It's completley managed for you, which considering there's a lot of other things I need to do (GRAMMAR), being able to have wanikani manage itself is very nice. It also has a great API with lots of user made plugins to enhance the experince, along with a community of other Japanese language learners.
 
-There are other options, but Wanikani is great if you can afford it.
+It is a subscription product, and using Anki + Remembering the Kanji would probably suffice as well, but Wanikani is great if you can afford it.
 
-## earthbound hobonichi journal
-Expensive out of print japanese journal with PAPER SOLD SEPERATLEY that I've always really wanted and found one at not a horribly expensive price 
+## [Earthbound Hobonichi Journal](https://www.1101.com/mother_project/items/index_en.html)
+Expensive japanese journal with PAPER SOLD SEPERATLEY that I've always really wanted and found one at not a horribly expensive price 
 Although I struggle to find things to write in it? All my journaling and todo-list-ing is done in org mode, so I usually just make a todolist in the hobonichi on weekends.
+
+
+It's so pretty though. I feel like one of those bullet journal girls.
 
 I've *almost* filled one page! 🦧
 
-## Appletoast shirt
+## [Appletoast Shirt](https://everpress.com/-encore-1)
 
-cool shirt, Appletoast makes sick art, guitars look cool, this shirt is cool. 
-I've worn it twice and nobody has completmented it, you're all fake.
+Cool shirt!!! Appletoast makes sick art (check out my github pfp)!!!  Guitars look cool!!! This shirt is cool!!!
+I've worn it THREE TIMES and nobody has completmented it, you're all fake.
 
-## That's it
-Were these recomendations?
+## That's it?
+So were these recomendations?
 
-not sure.
+Not sure.
+
+Cya next time.
+
