@@ -1,5 +1,3 @@
-import { writable } from "svelte/store";
-
    export const flavorRef = [
 		{ name: 'plain', bg_color: '#e5d6cc', text_color: '#171717', link_color: '#878f8f' },
 
@@ -16,17 +14,3 @@ import { writable } from "svelte/store";
 		{ name: 'melon', bg_color: '#dff5de', text_color: '#0d142c', link_color: '#878f8f' }
 	];
 
-    /*
-    const default_value = 0
-    const initial_value = browser ? window.localStorage.getItem("flavor") ?? default_value : default_value;
-
-    export const flavorStore = writable(initial_value);
-
-    flavorStore.subscribe((value) => {
-        if (browser){
-            window.localStorage.setItem('flavor',value)
-            console.log(`from sub {window.localStorage.getItem('flavor')}`)
-        }
-    });
-    */
-   export const theme_index_store = writable(0);
