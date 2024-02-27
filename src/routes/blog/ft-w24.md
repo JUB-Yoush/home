@@ -5,7 +5,7 @@ wip: "false"
 ---
 
 ---
-[They're on tour but are only doing west coast shows in NA... don't hmu](https://youtu.be/HW367HtrXE0?si=N5_eBo_4OMO736RY)
+[They're on tour but are only doing west coast shows in NA... don't hmu.](https://youtu.be/HW367HtrXE0?si=N5_eBo_4OMO736RY)
 
 
 # My Favorite things from the last 3 months
@@ -23,7 +23,7 @@ It's a file format and emacs plugin that combines the functionality of Google ca
 Orgzly lets you view and sync org files to your (android) phone!
 
 ## [Regolith WM (also Doom Emacs)](https://regolith-desktop.com/)
-Regolith is i3 running in gnome-session. If that means anything to you then you'd probably go "oh cool" or *scoff* "You still need gnome-session? Talk about *bloat**".
+Regolith is i3 running in gnome-session. If that means anything to you then you'd probably go "oh cool" or *scoff* "You still need gnome-session? Talk about *bloat*".
 
 If that previous sentence was un-parsable that is to be expected. Regolith is a linux window manager. A Window manager is what you use to manage how applications are sorted and displayed on your monitor(s). Regolith is built on i3 (or sway), which is a tiling window manager. This means windows tile to take up the maximum amount of space on your screen. i3 is also workspace based. Pressing Mod (the windows key) + a number on your keyboard will switch to another virtual monitor.
 
@@ -109,7 +109,7 @@ Again, no spoilers 😳
 ## [Wanikani](https://www.wanikani.com/)
 I've been learning Japanese!!
 
-Learning the Kanji and vocabulary that uses them is a daunting endeavour. The Kanji for Life（生）has 20 different readings depending on the word it's used in.
+Learning the Kanji and vocabulary that uses them is a daunting endeavour. The Kanji for "Life"（生）has 20 different readings depending on the word it's used in.
 
 Wanikani makes it simple.
 
@@ -125,13 +125,13 @@ It is a subscription product, and using Anki + Remembering the Kanji would proba
 Expensive japanese journal with PAPER SOLD SEPERATLEY that I've always really wanted and found one at not a horribly expensive price.
 Although I struggle to find things to write in it? All my journaling and todo-list-ing is done in org mode, so I usually just make a todolist in the hobonichi on weekends.
 
-It's so pretty though. I feel like one of those bullet journal girls.
+It's so pretty though. I feel like one of those idyllic bullet journal "study with me" girls dispite how hard my goblin aura prevents me from feeling so.
 
-I've *almost* filled one page! 🦧
 
 ## [Appletoast Shirt](https://everpress.com/-encore-1)
 
 Cool shirt!!! Appletoast makes sick art (check out my github pfp)!!!  Guitars look cool!!! This shirt is cool!!!
+
 I've worn it THREE TIMES and nobody has complemented it, you're all fake.
 
 ## What an eclectic collection of nouns

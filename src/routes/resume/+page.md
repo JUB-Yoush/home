@@ -1,12 +1,12 @@
 # ~/resume
-a pdf copy can be found [here](https://file.notion.so/f/f/c477293f-b7c3-4cc8-b30a-761434e7ab2d/d527aa1a-39ad-4bcf-a521-6c8c2d5edfb6/jayden_brooks_resume.pdf?id=afd8b554-470a-4aad-b743-ae35e4ceff72&table=block&spaceId=c477293f-b7c3-4cc8-b30a-761434e7ab2d&expirationTimestamp=1707768000000&signature=wnRrFqgyr1bUr5TTktnhWAWR13buWFt8bElA69982-k&downloadName=jayden_brooks_resume.pdf)
+a pdf copy can be found [here](https://drive.google.com/file/d/1nVaJ1Z8sA5iE_YDEoOEp4j_lXOrLW6Tp/view?usp=sharing)
 
 ## Education
 ### Lassonde School of Engineering, York University
 #### Honours Bachelor of Arts in Computer Science, class of 2025
-- I go to Lassonde at York. 
+- I go to Lassonde at York.
 
-- I'm very happy with the friends and community I've been able to cultivate, and feel like I'm making the most out of my time here. 
+- I'm very happy with the friends and community I've been able to cultivate, and feel like I'm making the most out of my time here.
 
 
 ## Work Experience
@@ -22,7 +22,7 @@ a pdf copy can be found [here](https://file.notion.so/f/f/c477293f-b7c3-4cc8-b30
 - My first Internship at a big company!
 
 - Worked on a Proof-of concept for a software system that automates the recording and displaying of software scan data.
-### Software Engineering Intern 
+### Software Engineering Intern
 
 #### M5V Developments May-Aug 2023
 - I spent this summer with M5V developments, helping design some innovations to their backend management and content creation workflows.
@@ -48,7 +48,7 @@ I have a [page](/projects) dedicated to those.
 ## Extra Curriculars
 ### Game Devs @ YorkU
 #### Founder and President Nov 2021 - Present
-- I started the game development club at York University, York was fully online at the time I had started there (Sept 2021), and I started the club through a mix of wanting to make friends and simply wanting to hang out in a game development club. There wasn't one so I decided to make one myself. 
+- I started the game development club at York University, York was fully online at the time I had started there (Sept 2021), and I started the club through a mix of wanting to make friends and simply wanting to hang out in a game development club. There wasn't one so I decided to make one myself.
 
 - I started by simply calling us an "unofficial club", and advertised it in existing clubs.
 
@@ -60,10 +60,9 @@ I have a [page](/projects) dedicated to those.
 - Check us out at [gdyu.club](https://www.gdyu.club/).
 
 ### Lassonde Freshman Week
-#### Frosh Leader August 2022 
+#### Frosh Leader August 2022
 - I was a frosh leader for the 2022 Lassonde freshman week.
 
 -   It was a great time! It was nice taking on a leadership role and helping out the incoming students, I'm still friends with a lot of the people I had met too.
-
 
 -   Wasn't able to do frosh the 2023 year, but if you get the chance then I really recommend it.
