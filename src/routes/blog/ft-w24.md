@@ -5,6 +5,11 @@ wip: "false"
 ---
 
 ---
+---
+### edits:
+>2024-02-27: added Coffee and Code
+
+
 [They're on tour but are only doing west coast shows in NA... don't hmu.](https://youtu.be/HW367HtrXE0?si=N5_eBo_4OMO736RY)
 
 
@@ -14,6 +19,12 @@ Cool things I played or saw or used or checked out,
 Any medium, any experience.
 
 And these are NOT in any sorted order.
+
+## [Brampton Coffee n Code](https://www.bramptonlibrary.ca/index.php/program-guide-inspiring-connections/coffee-n-code)
+
+Coffee n code is a recurring event at the brampton library where programmers can sit around and... talk to each other.
+
+It's a nice way to spend every other saturday morning, I've been trying to get out the house more often, and doing what I would've done in the house somewhere else is a pretty frictionless way to do that. 
 
 ## [Emacs Org mode/Orgzly](https://orgmode.org/)
 "A GNU Emacs major mode for keeping notes, authoring documents, computational notebooks, literate programming, maintaining to-do lists, planning projects, and more — in a fast and effective plain text system."
