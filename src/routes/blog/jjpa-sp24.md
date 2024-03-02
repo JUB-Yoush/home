@@ -105,6 +105,8 @@ I've also been reading through Meditations. It's interesting how the inner confl
 
 Marcus Aurelius is now my imaginary friend.
 
+## Blog
+Got 2 posts out, would've wanted to get 3 but it's alright, I do really like writing these though, especially considering nobody reads them (yet!)
 
 # What I will be up to: Spring 2024
 
@@ -202,6 +204,10 @@ Right now I'd like to get a comfortable workflow set up. Work through the steps 
 
 Can't give a page count because I'm still not sure how long a page takes. But maybe that in itself can be a goal this season.
 
+## Blog
+I will blog more often, writing is fun.
+
+Minimum one post a month.
 
 # That's all
 If you read this you should let me know, it'd certainly make me feel like I'm not that guy in the talking to a brick wall gif. Although I'll try to make some future blog post a bit more generally useful and less about myself.
