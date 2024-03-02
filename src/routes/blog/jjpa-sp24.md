@@ -1,7 +1,7 @@
 ---
 title: "Jayden Journal Public Access: Spring 2024"
 date: "2024-03-01"
-wip: "true"
+wip: "false"
 ---
 
 ---
@@ -135,37 +135,37 @@ The tech department (me) is also working on a new discord bot feature that will 
 ### Mental
 I want to spend time writing about my feelings more!
 
-I think I let my thoughts ruminate in my head before I sleep and it makes it hard to actuality fall alseep. Head not empty and it's a problem.
+I think I let my thoughts ruminate in my head before I sleep and it makes it hard to actuality fall asleep. Head not empty and it's a problem.
 
-I also have some methods I've been praticing to sleep better like 4-7-8 breathing and the military sleep method. Hopefully they work out.
+I also have some methods I've been practicing to sleep better like 4-7-8 breathing and the military sleep method. Hopefully they work out.
 
 I also want to try and get out the house more often. The library seems to have programmer meet ups I could attend-help out with. Also GDYU stuff.
 
 ### Physical
 Perhaps I'll start Gymming for real this time. RN I just do calisthenics in my room after work, but I'm fortunate enough to have a 90s home gym in the basement I could go and use instead, but my room is more frictionless.
 
-I do struggle to set fitness goals, so I'll try to be consistient and see if anything specific appears to me later.
+I do struggle to set fitness goals, so I'll try to be consistent and see if anything specific appears to me later.
 
 ## Hobbies
 ### JP
-I'd like to finish Genki 1, and continute to do Wanikani every day.
+I'd like to finish Genki 1, and continue to do Wanikani every day.
 
-I'd like to start using the language as soon as possible, so trying to play a game or read a manga is somthing I'd like to do this season, as well as actually use the lanugage with other people.
+I'd like to start using the language as soon as possible, so trying to play a game or read a manga is something I'd like to do this season, as well as actually use the lanugage with other people.
 
-I've Heard Dragon Quest 5 and Yostuba are good choices for first piece of japanese media respectivley. My issue with retro games is that games with low resolution font are harder to read and tend to not use Kanji, which I ironically find makes it harder to read.
+I've Heard Dragon Quest 5 and Yostuba are good choices for first piece of japanese media respectively. My issue with retro games is that games with low resolution font are harder to read and tend to not use Kanji, which I ironically find makes it harder to read.
 
 Wanikani has a forum I could try hanging out in, and York has a japanese student club that holds language exchanges. I have options for that as well.
 
 ## Dev
 ### Not-Gamedev
-I need to finish ALL my non-game dev realted programming projects before I start making games. Mostly because these projects are things that other people are going to benifit from, so I'd like to get them up and running before I work on stuff for myself.
+I need to finish ALL my non-game dev related programming projects before I start making games. Mostly because these projects are things that other people are going to benefit from, so I'd like to get them up and running before I work on stuff for myself.
 
 These include:
 - the gdyu website
 - the gdyu bot updates
 - that's all actually
 
-Additonally I'd like to fix the mailing list on my site, and improve SEO? Add a sitemap/rss feed as well. It'd be nice if people read these and I wasn't just screaming into the void y'know? But that's not a priority.
+Additionally I'd like to fix the mailing list on my site, and improve SEO? Add a sitemap/rss feed as well. It'd be nice if people read these and I wasn't just screaming into the void y'know? But that's not a priority.
 
 I'll also need to figure out how doom emacs works, and build out workflows that work for what I do. With great power comes a lot of setting up. 🤓
 
@@ -190,13 +190,13 @@ talented,
 
 inspiring,
 
-often imitaed,
+often imitated,
 
 NEVER duplicated,
 
-accountability partner Lee [Nordqst](https://www.instagram.com/nordqst/) herself? (look out for her comic it'll be much better then my stuff)
+accountability partner Lee [Nordqst](https://www.instagram.com/nordqst/) herself. (look out for her comic it'll be much better then my stuff)
 
-I'll adjust my style as I go, and try to be intentional with my markmaking. To go fast is to go well, and to go well is to go slow, ironically.
+I'll adjust my style as I go, and try to be intentional with my mark-making. To go fast is to go well, and to go well is to go slow, ironically.
 
 Right now I'd like to get a comfortable workflow set up. Work through the steps it would take from ideas in my obsidian vault to a finished page I could publish. Thinking about how to publish it is another thing to do. Use webtoon? make my own site for it? I'd weigh out the options and see what's best for me.
 
