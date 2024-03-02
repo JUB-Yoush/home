@@ -106,7 +106,7 @@ I've also been reading through Meditations. It's interesting how the inner confl
 Marcus Aurelius is now my imaginary friend.
 
 ## Blog
-Got 2 posts out, would've wanted to get 3 but it's alright, I do really like writing these though, especially considering nobody reads them (yet!)
+Got 2 posts out, would've wanted to get 3 but it's alright, I do really like writing these though, especially considering nobody reads them (yet!).
 
 # What I will be up to: Spring 2024
 

@@ -36,7 +36,7 @@ Regardless, thanks for checking out my site, feel free to reach out!
 
 Also, if you go to York and are interested in game development, [gdyu.club](https://www.gdyu.club/).
 
-## HOT NEW FEATURE⁉️
+## HOT NEW FEATURE⁉ ️
 Sign up for my new [mailing list](/mail) and I'll send you emails.
 nvm it's a lil brokey rn (will fix when I make time for it)
 </div>
