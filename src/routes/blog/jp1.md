@@ -22,7 +22,7 @@ Well I like Japanese things, lot of my favorite media and technology was made in
 
 Japanese is a language, the use of a language being to communicate thoughts and ideas with other humans. Having a "hobby" (I'll elaborate on the quote use later) like Japanese, something that is based in interacting with people, could help me connect with others (and go outside more).
 
-Also being able to view the unfiltered version of a creators artistic vision would be cool. I'll play Tokimeki Memorial 2 someday (certainly before Tim get's to reviewing it).
+Also being able to view the unfiltered version of a creators artistic vision would be cool. I'll play Tokimeki Memorial 2 someday (certainly before Tim gets to reviewing it).
 
 This post will be about my observations of the language based on what I've encountered so far. I expect things will be incorrect, as my gaijin-ahh opinions are based in (as of writing this) only knowing about 306 Kanji, 613 Words, and 78% of the grammar points needed for the N5 certification, the simplest "knowns some basic Japanese" certification you can get.
 
@@ -232,11 +232,11 @@ You want to create spaces where your language is the primary means of communicat
 
 ## What I use to learn
 Things I use to learn Japanese if you're interested:
-[Wanikani](https://www.wanikani.com/): SRS Deck application for Radicals, Kanji, and Vocabulary.
-[Bunpro](https://bunpro.jp): SRS Deck application for grammar.
-[Jisho](https://jisho.org/): Dictonary
-[ichi.moe](https://ichi.moe/): Sentence Parser (does the regex for you)
-[Curedolly]( https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj): Eclectic Vtuber who teaches grammar well, sadly passed away but her videos are all still great resources.
+- [Wanikani](https://www.wanikani.com/): SRS Deck application for Radicals, Kanji, and Vocabulary.
+- [Bunpro](https://bunpro.jp): SRS Deck application for grammar.
+- [Jisho](https://jisho.org/): Dictonary
+- [ichi.moe](https://ichi.moe/): Sentence Parser (does the regex for you)
+- [Curedolly]( https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj): Eclectic Vtuber who teaches grammar well, sadly passed away but her videos are all still great resources.
 
 ## That's all cya
 Play Void Stranger.
