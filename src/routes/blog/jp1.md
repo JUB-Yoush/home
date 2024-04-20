@@ -216,7 +216,7 @@ Immersion is great for language learning, not from absorbing the language though
 
 So is "genuine" language learned reserved for only those who have the luxury to spend time physically immersed in a country in which their target language is spoken?
 
-No
+No.
 
 Of course being in a place where you language is spoken would help a lot, but you're unable to be in a physical space, you can find places in the things you do that can be boxed off from english, to make the primary means of communication your target language.
 
